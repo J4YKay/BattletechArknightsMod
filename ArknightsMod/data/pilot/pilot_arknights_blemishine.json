@@ -1,0 +1,53 @@
+{
+   "Description": {
+      "Id": "pilot_arknights_blemishine",
+      "Name": "Blemishine",
+      "FirstName": "Kana",
+      "LastName": "Hanazawa",
+      "Callsign": "Blemishine",
+      "Gender": "Female",
+      "factionID": "RhodesIsland",
+      "Age": 32,
+      "Details": "Maria Nearl, a young knight from Kazimierz and younger sister to Operator Nearl, has experience with knight sports and has demonstrated excellence in combat across a variety of tests. She now serves as a Defender Operator alongside Operator Nearl, as per her wishes.",
+      "Icon": "portrait_arknights_blemishine"
+   },
+   "BaseGunnery": 2,
+   "BonusGunnery": 0,
+   "BasePiloting": 2,
+   "BonusPiloting": 0,
+   "BaseGuts": 2,
+   "BonusGuts": 0,
+   "BaseTactics": 2,
+   "BonusTactics": 0,
+   "ExperienceUnspent": 10000,
+   "ExperienceSpent": 0,
+   "Injuries": 0,
+   "Health": 3,
+   "LethalInjury": false,
+   "Incapacitated": false,
+   "Morale": 0,
+   "Voice": "Blemishine_voicepack",
+   "abilityDefNames": [],
+   "AIPersonality": "Undefined",
+   "PilotTags": {
+      "items": [
+         "BLACKLISTED",
+         "pilot_mechwarrior",
+         "pilot_military",
+         "pilot_brave",
+         "pilot_klutz",
+         "pilot_lucky",
+         "pilot_naive",
+         "pilot_tech",
+         "pilot_wealthy",
+         "pilot_dependable",
+         "pilot_kazimierz",
+         "pilot_arknights",
+         "pilot_defender",
+         "name_Blemishine"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "PilotCost": 0,
+   "IsRonin": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Swire_soundbank",
+  "filename": "Swire.bnk",
+  "type": "Voice",
+  "events": {
+    "Play_Swire_CN_005": 741977142,
+    "Play_Swire_CN_010": 725199424,
+    "Play_Swire_CN_011": 725199425,
+    "Play_Swire_CN_012": 725199426,
+    "Play_Swire_CN_017": 725199431,
+    "Play_Swire_CN_018": 725199432,
+    "Play_Swire_CN_019": 725199433,
+    "Play_Swire_CN_020": 775532313,
+    "Play_Swire_CN_021": 775532312,
+    "Play_Swire_CN_022": 775532315,
+    "Play_Swire_CN_023": 775532314,
+    "Play_Swire_CN_024": 775532317,
+    "Play_Swire_CN_025": 775532316,
+    "Play_Swire_CN_026": 775532319,
+    "Play_Swire_CN_027": 775532318,
+    "Play_Swire_CN_028": 775532305,
+    "Play_Swire_CN_029": 775532304,
+    "Play_Swire_CN_030": 758754726,
+    "Play_Swire_CN_031": 758754727,
+    "Play_Swire_CN_032": 758754724,
+    "Play_Swire_CN_033": 758754725,
+    "Play_Swire_CN_034": 758754722,
+    "Play_Swire_CN_036": 758754720,
+    "Play_Swire_CN_042": 809087613,
+    "Swire_Stop_All": 2182336942
+  }
+}

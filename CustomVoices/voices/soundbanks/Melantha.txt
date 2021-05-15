@@ -1,0 +1,137 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1292708288	Melantha_Stop_All			\Default Work Unit\Melantha_Stop_All	
+	2039286208	Play_Melantha_010			\Default Work Unit\Play_Melantha_010	
+	2039286209	Play_Melantha_011			\Default Work Unit\Play_Melantha_011	
+	2039286210	Play_Melantha_012			\Default Work Unit\Play_Melantha_012	
+	2039286215	Play_Melantha_017			\Default Work Unit\Play_Melantha_017	
+	2039286216	Play_Melantha_018			\Default Work Unit\Play_Melantha_018	
+	2039286217	Play_Melantha_019			\Default Work Unit\Play_Melantha_019	
+	2056063921	Play_Melantha_002			\Default Work Unit\Play_Melantha_002	
+	2056063922	Play_Melantha_001			\Default Work Unit\Play_Melantha_001	
+	2056063924	Play_Melantha_007			\Default Work Unit\Play_Melantha_007	
+	2056063926	Play_Melantha_005			\Default Work Unit\Play_Melantha_005	
+	2056063927	Play_Melantha_004			\Default Work Unit\Play_Melantha_004	
+	2072841504	Play_Melantha_036			\Default Work Unit\Play_Melantha_036	
+	2072841506	Play_Melantha_034			\Default Work Unit\Play_Melantha_034	
+	2072841508	Play_Melantha_032			\Default Work Unit\Play_Melantha_032	
+	2072841509	Play_Melantha_033			\Default Work Unit\Play_Melantha_033	
+	2072841510	Play_Melantha_030			\Default Work Unit\Play_Melantha_030	
+	2072841511	Play_Melantha_031			\Default Work Unit\Play_Melantha_031	
+	2089619088	Play_Melantha_029			\Default Work Unit\Play_Melantha_029	
+	2089619096	Play_Melantha_021			\Default Work Unit\Play_Melantha_021	
+	2089619097	Play_Melantha_020			\Default Work Unit\Play_Melantha_020	
+	2089619098	Play_Melantha_023			\Default Work Unit\Play_Melantha_023	
+	2089619099	Play_Melantha_022			\Default Work Unit\Play_Melantha_022	
+	2089619100	Play_Melantha_025			\Default Work Unit\Play_Melantha_025	
+	2089619101	Play_Melantha_024			\Default Work Unit\Play_Melantha_024	
+	2089619103	Play_Melantha_026			\Default Work Unit\Play_Melantha_026	
+	2123174397	Play_Melantha_042			\Default Work Unit\Play_Melantha_042	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3506187	radio (Custom)	Wwise Parametric EQ			
+	6752171	radio (Custom)	Wwise Parametric EQ			
+	12351331	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	39620902	static (Custom)	Wwise Guitar Distortion			
+	55848394	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	57301662	radio (Custom)	Wwise Parametric EQ			
+	70481000	radio (Custom)	Wwise Parametric EQ			
+	88545406	radio (Custom)	Wwise Parametric EQ			
+	89261436	radio (Custom)	Wwise Parametric EQ			
+	119784664	static (Custom)	Wwise Guitar Distortion			
+	125314444	radio (Custom)	Wwise Parametric EQ			
+	148986587	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	166592266	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	180148831	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	193152560	static (Custom)	Wwise Guitar Distortion			
+	276199454	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	302518433	static (Custom)	Wwise Guitar Distortion			
+	314424062	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	319405083	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	324044220	static (Custom)	Wwise Guitar Distortion			
+	334417053	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	344586059	static (Custom)	Wwise Guitar Distortion			
+	347378788	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	352875986	static (Custom)	Wwise Guitar Distortion			
+	371802014	static (Custom)	Wwise Guitar Distortion			
+	385514489	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	388824646	radio (Custom)	Wwise Parametric EQ			
+	393753621	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	393992341	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	404604165	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	404798359	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	413594919	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	459449075	radio (Custom)	Wwise Parametric EQ			
+	460073779	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	474098309	static (Custom)	Wwise Guitar Distortion			
+	497250272	static (Custom)	Wwise Guitar Distortion			
+	500088948	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	500508013	radio (Custom)	Wwise Parametric EQ			
+	511950429	radio (Custom)	Wwise Parametric EQ			
+	513335511	static (Custom)	Wwise Guitar Distortion			
+	513545353	static (Custom)	Wwise Guitar Distortion			
+	544657615	static (Custom)	Wwise Guitar Distortion			
+	610987346	radio (Custom)	Wwise Parametric EQ			
+	614850626	radio (Custom)	Wwise Parametric EQ			
+	623396468	static (Custom)	Wwise Guitar Distortion			
+	623935983	radio (Custom)	Wwise Parametric EQ			
+	638754855	radio (Custom)	Wwise Parametric EQ			
+	640184599	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	644973411	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	679202044	static (Custom)	Wwise Guitar Distortion			
+	702331686	radio (Custom)	Wwise Parametric EQ			
+	706415318	static (Custom)	Wwise Guitar Distortion			
+	716307023	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	725740901	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	738882929	static (Custom)	Wwise Guitar Distortion			
+	742411544	radio (Custom)	Wwise Parametric EQ			
+	769768660	radio (Custom)	Wwise Parametric EQ			
+	794746406	radio (Custom)	Wwise Parametric EQ			
+	807552442	radio (Custom)	Wwise Parametric EQ			
+	833938942	radio (Custom)	Wwise Parametric EQ			
+	841250176	static (Custom)	Wwise Guitar Distortion			
+	863050832	radio (Custom)	Wwise Parametric EQ			
+	868283532	radio (Custom)	Wwise Parametric EQ			
+	889370033	static (Custom)	Wwise Guitar Distortion			
+	893776517	static (Custom)	Wwise Guitar Distortion			
+	909210930	static (Custom)	Wwise Guitar Distortion			
+	917624866	radio (Custom)	Wwise Parametric EQ			
+	930506745	radio (Custom)	Wwise Parametric EQ			
+	941857225	radio (Custom)	Wwise Parametric EQ			
+	945068673	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	967753942	static (Custom)	Wwise Guitar Distortion			
+	988016740	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	998086112	static (Custom)	Wwise Guitar Distortion			
+	1016841871	static (Custom)	Wwise Guitar Distortion			
+	1025115619	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1039600709	static (Custom)	Wwise Guitar Distortion			
+	1047389290	static (Custom)	Wwise Guitar Distortion			
+	1057835509	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	4045630	Melantha_004	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_004_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_004		707316
+	18025429	Melantha_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_025_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_025		96164
+	52625188	Melantha_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_036_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_036		1181056
+	152403794	Melantha_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_030_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_030		305608
+	162779450	Melantha_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_032_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_032		407804
+	247544023	Melantha_002	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_002_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_002		551516
+	330642162	Melantha_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_042_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_042		85736
+	343505589	Melantha_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_023_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_023		117318
+	401373909	Melantha_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_029_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_029		453978
+	420843537	Melantha_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_010_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_010		572458
+	446627015	Melantha_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_022_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_022		142578
+	530991538	Melantha_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_019_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_019		469496
+	610289736	Melantha_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_033_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_033		377756
+	637242422	Melantha_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_034_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_034		304546
+	648887653	Melantha_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_026_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_026		81018
+	661229738	Melantha_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_012_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_012		286342
+	670612207	Melantha_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_005_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_005		919082
+	734629935	Melantha_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_031_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_031		147130
+	742014230	Melantha_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_018_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_018		798234
+	798666802	Melantha_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_001_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_001		402290
+	809161032	Melantha_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_021_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_021		223440
+	810543056	Melantha_007	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_007_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_007		1209468
+	848199410	Melantha_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_017_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_017		276246
+	878343415	Melantha_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_024_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_024		162240
+	1009298520	Melantha_011	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_011_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_011		880800
+	1051902227	Melantha_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Melantha_020_9E69E797.wem		\Actor-Mixer Hierarchy\Melantha\Melantha_020		355982
+

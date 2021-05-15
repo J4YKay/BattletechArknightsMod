@@ -1,0 +1,24 @@
+{
+    "enumerationValueList" : [
+        {
+            "ID": 951,
+            "Name": "RhodesIsland",
+            "FriendlyName": "RhodesIsland",
+            "Description": "",
+            "FactionDefID": "faction_RhodesIsland",
+            "IsRealFaction": true,
+            "IsGreatHouse": false,
+            "IsClan": false,
+            "IsMercenary": true,
+            "IsPirate": false,
+            "DoesGainReputation": false,
+            "CanAlly": false,
+            "IsProceduralContractFaction": false,
+            "IsCareerScoringFaction": false,
+            "IsCareerIgnoredContractTarget": false,
+            "IsCareerStartingDisplayFaction": false,
+            "IsStoryStartingDisplayFaction": false,
+            "HasAIBehaviorVariableScope": false
+        }
+	]
+}

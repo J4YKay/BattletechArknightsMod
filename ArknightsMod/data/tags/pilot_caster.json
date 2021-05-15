@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_caster",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Caster",
+	"Description" : "Casters attack enemies with their Originium Arts. The Caster class is divided into three archetypes: ST, AoE, and channeler."
+}

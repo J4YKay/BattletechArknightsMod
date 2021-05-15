@@ -1,0 +1,127 @@
+Event	ID	Name			Wwise Object Path	Notes
+	725199424	Play_Swire_CN_010			\Default Work Unit\Play_Swire_CN_010	
+	725199425	Play_Swire_CN_011			\Default Work Unit\Play_Swire_CN_011	
+	725199426	Play_Swire_CN_012			\Default Work Unit\Play_Swire_CN_012	
+	725199431	Play_Swire_CN_017			\Default Work Unit\Play_Swire_CN_017	
+	725199432	Play_Swire_CN_018			\Default Work Unit\Play_Swire_CN_018	
+	725199433	Play_Swire_CN_019			\Default Work Unit\Play_Swire_CN_019	
+	741977142	Play_Swire_CN_005			\Default Work Unit\Play_Swire_CN_005	
+	758754720	Play_Swire_CN_036			\Default Work Unit\Play_Swire_CN_036	
+	758754722	Play_Swire_CN_034			\Default Work Unit\Play_Swire_CN_034	
+	758754724	Play_Swire_CN_032			\Default Work Unit\Play_Swire_CN_032	
+	758754725	Play_Swire_CN_033			\Default Work Unit\Play_Swire_CN_033	
+	758754726	Play_Swire_CN_030			\Default Work Unit\Play_Swire_CN_030	
+	758754727	Play_Swire_CN_031			\Default Work Unit\Play_Swire_CN_031	
+	775532304	Play_Swire_CN_029			\Default Work Unit\Play_Swire_CN_029	
+	775532305	Play_Swire_CN_028			\Default Work Unit\Play_Swire_CN_028	
+	775532312	Play_Swire_CN_021			\Default Work Unit\Play_Swire_CN_021	
+	775532313	Play_Swire_CN_020			\Default Work Unit\Play_Swire_CN_020	
+	775532314	Play_Swire_CN_023			\Default Work Unit\Play_Swire_CN_023	
+	775532315	Play_Swire_CN_022			\Default Work Unit\Play_Swire_CN_022	
+	775532316	Play_Swire_CN_025			\Default Work Unit\Play_Swire_CN_025	
+	775532317	Play_Swire_CN_024			\Default Work Unit\Play_Swire_CN_024	
+	775532318	Play_Swire_CN_027			\Default Work Unit\Play_Swire_CN_027	
+	775532319	Play_Swire_CN_026			\Default Work Unit\Play_Swire_CN_026	
+	809087613	Play_Swire_CN_042			\Default Work Unit\Play_Swire_CN_042	
+	2182336942	Swire_Stop_All			\Default Work Unit\Swire_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	25353634	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	28828279	static (Custom)	Wwise Guitar Distortion			
+	30336619	radio (Custom)	Wwise Parametric EQ			
+	35811032	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	55973332	radio (Custom)	Wwise Parametric EQ			
+	82631339	static (Custom)	Wwise Guitar Distortion			
+	93547152	static (Custom)	Wwise Guitar Distortion			
+	121218212	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	128635298	radio (Custom)	Wwise Parametric EQ			
+	151988518	static (Custom)	Wwise Guitar Distortion			
+	186797294	radio (Custom)	Wwise Parametric EQ			
+	189765699	radio (Custom)	Wwise Parametric EQ			
+	192482216	radio (Custom)	Wwise Parametric EQ			
+	202870021	radio (Custom)	Wwise Parametric EQ			
+	203928882	static (Custom)	Wwise Guitar Distortion			
+	208602113	radio (Custom)	Wwise Parametric EQ			
+	217653761	radio (Custom)	Wwise Parametric EQ			
+	226288853	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	232536627	radio (Custom)	Wwise Parametric EQ			
+	234655874	static (Custom)	Wwise Guitar Distortion			
+	245358235	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	251047085	radio (Custom)	Wwise Parametric EQ			
+	288015354	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	348791887	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	363094797	static (Custom)	Wwise Guitar Distortion			
+	364917881	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	368083594	radio (Custom)	Wwise Parametric EQ			
+	368258619	static (Custom)	Wwise Guitar Distortion			
+	369284084	radio (Custom)	Wwise Parametric EQ			
+	371571188	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	372786263	static (Custom)	Wwise Guitar Distortion			
+	388486927	static (Custom)	Wwise Guitar Distortion			
+	401520357	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	428534558	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	440305727	static (Custom)	Wwise Guitar Distortion			
+	451319618	static (Custom)	Wwise Guitar Distortion			
+	465200561	radio (Custom)	Wwise Parametric EQ			
+	476799262	static (Custom)	Wwise Guitar Distortion			
+	501383161	radio (Custom)	Wwise Parametric EQ			
+	537195732	radio (Custom)	Wwise Parametric EQ			
+	551796999	radio (Custom)	Wwise Parametric EQ			
+	567471352	static (Custom)	Wwise Guitar Distortion			
+	588116552	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	592002926	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	598638369	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	598877890	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	648337673	static (Custom)	Wwise Guitar Distortion			
+	679377561	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	693801701	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	748028816	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	757715003	static (Custom)	Wwise Guitar Distortion			
+	829985112	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	830153754	static (Custom)	Wwise Guitar Distortion			
+	849322330	static (Custom)	Wwise Guitar Distortion			
+	849489927	radio (Custom)	Wwise Parametric EQ			
+	855402596	static (Custom)	Wwise Guitar Distortion			
+	857594565	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	861511121	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	871057559	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	872624510	static (Custom)	Wwise Guitar Distortion			
+	886222827	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	902143251	radio (Custom)	Wwise Parametric EQ			
+	914476489	radio (Custom)	Wwise Parametric EQ			
+	931439075	static (Custom)	Wwise Guitar Distortion			
+	946383740	static (Custom)	Wwise Guitar Distortion			
+	955548593	static (Custom)	Wwise Guitar Distortion			
+	966338196	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	990886597	static (Custom)	Wwise Guitar Distortion			
+	993020983	radio (Custom)	Wwise Parametric EQ			
+	1034998132	radio (Custom)	Wwise Parametric EQ			
+	1041454761	radio (Custom)	Wwise Parametric EQ			
+	1052952269	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	7198462	Swire_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_033		565060
+	130237213	Swire_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_023		290238
+	197924478	Swire_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_028		129034
+	244102234	Swire_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_031		731334
+	269995438	Swire_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_010		1175854
+	280596027	Swire_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_032		611910
+	282846137	Swire_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_034		186348
+	289665553	Swire_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_026		212000
+	379355713	Swire_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_024		349950
+	546004198	Swire_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_022		254470
+	573529427	Swire_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_025		127390
+	618131595	Swire_CN_011	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_011_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_011		1250624
+	636971975	Swire_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_030		564596
+	747989184	Swire_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_012		567018
+	766447942	Swire_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_020		474634
+	799178535	Swire_CN_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_005_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_005		684948
+	816230526	Swire_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_042		370510
+	831873999	Swire_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_029		526456
+	932341637	Swire_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_017		259626
+	939693942	Swire_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_036		605440
+	948745217	Swire_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_018		222160
+	1019594390	Swire_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_021		69272
+	1044495168	Swire_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_027		213762
+	1066865632	Swire_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Swire_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Swire\Swire_CN_019		340774
+

@@ -1,0 +1,122 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1275760746	Play_W_042			\Default Work Unit\Play_W_042	
+	1359648768	Play_W_017			\Default Work Unit\Play_W_017	
+	1359648771	Play_W_014			\Default Work Unit\Play_W_014	
+	1359648772	Play_W_013			\Default Work Unit\Play_W_013	
+	1359648773	Play_W_012			\Default Work Unit\Play_W_012	
+	1359648782	Play_W_019			\Default Work Unit\Play_W_019	
+	1359648783	Play_W_018			\Default Work Unit\Play_W_018	
+	1376426482	Play_W_028			\Default Work Unit\Play_W_028	
+	1376426483	Play_W_029			\Default Work Unit\Play_W_029	
+	1376426488	Play_W_022			\Default Work Unit\Play_W_022	
+	1376426489	Play_W_023			\Default Work Unit\Play_W_023	
+	1376426490	Play_W_020			\Default Work Unit\Play_W_020	
+	1376426491	Play_W_021			\Default Work Unit\Play_W_021	
+	1376426492	Play_W_026			\Default Work Unit\Play_W_026	
+	1376426493	Play_W_027			\Default Work Unit\Play_W_027	
+	1376426494	Play_W_024			\Default Work Unit\Play_W_024	
+	1376426495	Play_W_025			\Default Work Unit\Play_W_025	
+	1393204073	Play_W_034			\Default Work Unit\Play_W_034	
+	1393204075	Play_W_036			\Default Work Unit\Play_W_036	
+	1393204076	Play_W_031			\Default Work Unit\Play_W_031	
+	1393204077	Play_W_030			\Default Work Unit\Play_W_030	
+	1393204078	Play_W_033			\Default Work Unit\Play_W_033	
+	1393204079	Play_W_032			\Default Work Unit\Play_W_032	
+	2263762703	W_Stop_All			\Default Work Unit\W_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	21014272	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	22524725	static (Custom)	Wwise Guitar Distortion			
+	26419580	radio (Custom)	Wwise Parametric EQ			
+	41417598	static (Custom)	Wwise Guitar Distortion			
+	84448506	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	87005263	radio (Custom)	Wwise Parametric EQ			
+	105992502	static (Custom)	Wwise Guitar Distortion			
+	114092496	radio (Custom)	Wwise Parametric EQ			
+	132471103	radio (Custom)	Wwise Parametric EQ			
+	133622693	radio (Custom)	Wwise Parametric EQ			
+	136595625	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	141179040	radio (Custom)	Wwise Parametric EQ			
+	147919666	static (Custom)	Wwise Guitar Distortion			
+	154470664	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	156292492	radio (Custom)	Wwise Parametric EQ			
+	158149578	static (Custom)	Wwise Guitar Distortion			
+	179204327	static (Custom)	Wwise Guitar Distortion			
+	193147988	static (Custom)	Wwise Guitar Distortion			
+	209698969	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	219945918	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	226668196	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	283245650	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	284153381	radio (Custom)	Wwise Parametric EQ			
+	285003723	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	316641051	radio (Custom)	Wwise Parametric EQ			
+	373015622	static (Custom)	Wwise Guitar Distortion			
+	398691529	static (Custom)	Wwise Guitar Distortion			
+	401920298	static (Custom)	Wwise Guitar Distortion			
+	427211342	static (Custom)	Wwise Guitar Distortion			
+	435811825	radio (Custom)	Wwise Parametric EQ			
+	503436565	radio (Custom)	Wwise Parametric EQ			
+	511835751	radio (Custom)	Wwise Parametric EQ			
+	522337745	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	525275746	radio (Custom)	Wwise Parametric EQ			
+	586115544	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	620978225	static (Custom)	Wwise Guitar Distortion			
+	646273907	radio (Custom)	Wwise Parametric EQ			
+	647470861	static (Custom)	Wwise Guitar Distortion			
+	666462345	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	706917892	static (Custom)	Wwise Guitar Distortion			
+	710960469	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	712600748	radio (Custom)	Wwise Parametric EQ			
+	725561636	static (Custom)	Wwise Guitar Distortion			
+	765712668	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	766674600	static (Custom)	Wwise Guitar Distortion			
+	769382478	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	770781444	static (Custom)	Wwise Guitar Distortion			
+	771955322	static (Custom)	Wwise Guitar Distortion			
+	797890996	static (Custom)	Wwise Guitar Distortion			
+	821015274	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	823872128	radio (Custom)	Wwise Parametric EQ			
+	835164989	radio (Custom)	Wwise Parametric EQ			
+	836324908	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	851951983	radio (Custom)	Wwise Parametric EQ			
+	869983137	radio (Custom)	Wwise Parametric EQ			
+	889695680	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	895845041	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	896612633	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	913552061	radio (Custom)	Wwise Parametric EQ			
+	925284962	static (Custom)	Wwise Guitar Distortion			
+	925330564	radio (Custom)	Wwise Parametric EQ			
+	926362414	static (Custom)	Wwise Guitar Distortion			
+	935221009	radio (Custom)	Wwise Parametric EQ			
+	939884603	static (Custom)	Wwise Guitar Distortion			
+	947626865	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	950071904	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	963612637	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	985360741	radio (Custom)	Wwise Parametric EQ			
+	1072027486	static (Custom)	Wwise Guitar Distortion			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	46117237	W_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_036_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_036		186804
+	83865195	W_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_023_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_023		180232
+	134981061	W_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_025_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_025		205528
+	221360548	W_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_027_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_027		528214
+	267181305	W_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_012_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_012		539268
+	338537619	W_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_031_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_031		729786
+	351083650	W_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_017_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_017		208378
+	426929855	W_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_020_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_020		525416
+	462676424	W_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_026_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_026		285268
+	537410645	W_014	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_014_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_014		975950
+	570887489	W_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_021_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_021		81082
+	642839478	W_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_030_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_030		873006
+	704419046	W_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_019_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_019		337472
+	748746661	W_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_028_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_028		215428
+	821316261	W_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_029_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_029		569902
+	865126370	W_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_034_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_034		401918
+	885716928	W_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_022_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_022		86124
+	907653947	W_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_024_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_024		278334
+	932980191	W_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_013_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_013		993760
+	948081166	W_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_033_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_033		200278
+	960384721	W_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_042_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_042		490810
+	974120248	W_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_032_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_032		938508
+	1058218512	W_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\W_018_9E69E797.wem		\Actor-Mixer Hierarchy\W\W_018		641778
+

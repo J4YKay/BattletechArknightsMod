@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_medic",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Medic",
+	"Description" : "Instead of attacking enemies, Medics heal friendly units, making their use indispensable to keep friendlies on the field and gives them more time to hold the line. The Medic class is divided into two archetypes: ST and AoE."
+}

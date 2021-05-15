@@ -1,0 +1,142 @@
+Event	ID	Name			Wwise Object Path	Notes
+	494240306	Flamebringer_Stop_All			\Default Work Unit\Flamebringer_Stop_All	
+	886589387	Play_Flamebringer_CN_042			\Default Work Unit\Play_Flamebringer_CN_042	
+	903367096	Play_Flamebringer_CN_034			\Default Work Unit\Play_Flamebringer_CN_034	
+	903367098	Play_Flamebringer_CN_036			\Default Work Unit\Play_Flamebringer_CN_036	
+	903367100	Play_Flamebringer_CN_030			\Default Work Unit\Play_Flamebringer_CN_030	
+	903367101	Play_Flamebringer_CN_031			\Default Work Unit\Play_Flamebringer_CN_031	
+	903367102	Play_Flamebringer_CN_032			\Default Work Unit\Play_Flamebringer_CN_032	
+	903367103	Play_Flamebringer_CN_033			\Default Work Unit\Play_Flamebringer_CN_033	
+	920144678	Play_Flamebringer_CN_029			\Default Work Unit\Play_Flamebringer_CN_029	
+	920144679	Play_Flamebringer_CN_028			\Default Work Unit\Play_Flamebringer_CN_028	
+	920144680	Play_Flamebringer_CN_027			\Default Work Unit\Play_Flamebringer_CN_027	
+	920144681	Play_Flamebringer_CN_026			\Default Work Unit\Play_Flamebringer_CN_026	
+	920144682	Play_Flamebringer_CN_025			\Default Work Unit\Play_Flamebringer_CN_025	
+	920144683	Play_Flamebringer_CN_024			\Default Work Unit\Play_Flamebringer_CN_024	
+	920144684	Play_Flamebringer_CN_023			\Default Work Unit\Play_Flamebringer_CN_023	
+	920144685	Play_Flamebringer_CN_022			\Default Work Unit\Play_Flamebringer_CN_022	
+	920144686	Play_Flamebringer_CN_021			\Default Work Unit\Play_Flamebringer_CN_021	
+	920144687	Play_Flamebringer_CN_020			\Default Work Unit\Play_Flamebringer_CN_020	
+	936922240	Play_Flamebringer_CN_012			\Default Work Unit\Play_Flamebringer_CN_012	
+	936922241	Play_Flamebringer_CN_013			\Default Work Unit\Play_Flamebringer_CN_013	
+	936922242	Play_Flamebringer_CN_010			\Default Work Unit\Play_Flamebringer_CN_010	
+	936922243	Play_Flamebringer_CN_011			\Default Work Unit\Play_Flamebringer_CN_011	
+	936922245	Play_Flamebringer_CN_017			\Default Work Unit\Play_Flamebringer_CN_017	
+	936922250	Play_Flamebringer_CN_018			\Default Work Unit\Play_Flamebringer_CN_018	
+	936922251	Play_Flamebringer_CN_019			\Default Work Unit\Play_Flamebringer_CN_019	
+	953699952	Play_Flamebringer_CN_005			\Default Work Unit\Play_Flamebringer_CN_005	
+	953699956	Play_Flamebringer_CN_001			\Default Work Unit\Play_Flamebringer_CN_001	
+	953699959	Play_Flamebringer_CN_002			\Default Work Unit\Play_Flamebringer_CN_002	
+
+Effect plug-ins	ID	Name	Type				Notes
+	34490132	static (Custom)	Wwise Guitar Distortion			
+	45069961	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	51635256	static (Custom)	Wwise Guitar Distortion			
+	52851968	radio (Custom)	Wwise Parametric EQ			
+	83754469	static (Custom)	Wwise Guitar Distortion			
+	90102903	static (Custom)	Wwise Guitar Distortion			
+	102015383	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	128803407	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	132808658	static (Custom)	Wwise Guitar Distortion			
+	132826210	static (Custom)	Wwise Guitar Distortion			
+	133705875	static (Custom)	Wwise Guitar Distortion			
+	163094848	radio (Custom)	Wwise Parametric EQ			
+	172996334	radio (Custom)	Wwise Parametric EQ			
+	190601161	radio (Custom)	Wwise Parametric EQ			
+	197926978	radio (Custom)	Wwise Parametric EQ			
+	230258432	static (Custom)	Wwise Guitar Distortion			
+	237336579	static (Custom)	Wwise Guitar Distortion			
+	245737432	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	252323204	radio (Custom)	Wwise Parametric EQ			
+	283812492	radio (Custom)	Wwise Parametric EQ			
+	293206391	static (Custom)	Wwise Guitar Distortion			
+	297973490	radio (Custom)	Wwise Parametric EQ			
+	336875174	static (Custom)	Wwise Guitar Distortion			
+	366589124	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	373583649	radio (Custom)	Wwise Parametric EQ			
+	417727885	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	425773309	static (Custom)	Wwise Guitar Distortion			
+	455100017	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	460794825	static (Custom)	Wwise Guitar Distortion			
+	460985681	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	463659046	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	469304441	radio (Custom)	Wwise Parametric EQ			
+	479206299	static (Custom)	Wwise Guitar Distortion			
+	479607329	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	506502058	radio (Custom)	Wwise Parametric EQ			
+	535410664	radio (Custom)	Wwise Parametric EQ			
+	538500093	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	540551625	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	554884839	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	589139507	static (Custom)	Wwise Guitar Distortion			
+	594082024	radio (Custom)	Wwise Parametric EQ			
+	600539485	radio (Custom)	Wwise Parametric EQ			
+	602156545	static (Custom)	Wwise Guitar Distortion			
+	628692016	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	636849397	static (Custom)	Wwise Guitar Distortion			
+	675662670	radio (Custom)	Wwise Parametric EQ			
+	680555963	static (Custom)	Wwise Guitar Distortion			
+	693422790	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	697452057	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	705701296	radio (Custom)	Wwise Parametric EQ			
+	720313374	static (Custom)	Wwise Guitar Distortion			
+	745236804	static (Custom)	Wwise Guitar Distortion			
+	767531393	radio (Custom)	Wwise Parametric EQ			
+	771948911	radio (Custom)	Wwise Parametric EQ			
+	773062970	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	777912428	radio (Custom)	Wwise Parametric EQ			
+	816337759	static (Custom)	Wwise Guitar Distortion			
+	817421436	static (Custom)	Wwise Guitar Distortion			
+	823208883	radio (Custom)	Wwise Parametric EQ			
+	829853206	radio (Custom)	Wwise Parametric EQ			
+	843267076	radio (Custom)	Wwise Parametric EQ			
+	854528363	static (Custom)	Wwise Guitar Distortion			
+	863259902	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	881618557	static (Custom)	Wwise Guitar Distortion			
+	903143389	radio (Custom)	Wwise Parametric EQ			
+	909788819	static (Custom)	Wwise Guitar Distortion			
+	915285090	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	925852117	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	925859411	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	930022832	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	948422107	radio (Custom)	Wwise Parametric EQ			
+	970801024	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	985673410	radio (Custom)	Wwise Parametric EQ			
+	990623761	static (Custom)	Wwise Guitar Distortion			
+	992925086	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	996014955	static (Custom)	Wwise Guitar Distortion			
+	1003591230	radio (Custom)	Wwise Parametric EQ			
+	1032069259	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1049262471	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1054462433	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1069305715	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	92261068	Flamebringer_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_027		274038
+	116216485	Flamebringer_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_028		158110
+	163256775	Flamebringer_CN_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_005_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_005		1234260
+	182568134	Flamebringer_CN_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_001_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_001		973038
+	222479214	Flamebringer_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_029		201890
+	268486822	Flamebringer_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_021		155468
+	295742883	Flamebringer_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_033		165246
+	426816478	Flamebringer_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_036		203140
+	453801409	Flamebringer_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_017		306480
+	503080212	Flamebringer_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_025		204236
+	522802417	Flamebringer_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_042		302358
+	542046379	Flamebringer_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_024		317984
+	547178835	Flamebringer_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_023		259092
+	572127613	Flamebringer_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_020		97288
+	594549041	Flamebringer_CN_002	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_002_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_002		820056
+	628072724	Flamebringer_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_026		231938
+	667038599	Flamebringer_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_032		398810
+	668415300	Flamebringer_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_030		602448
+	700246463	Flamebringer_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_019		185160
+	755441994	Flamebringer_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_022		216740
+	811925744	Flamebringer_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_031		673578
+	856016817	Flamebringer_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_010		334974
+	881723018	Flamebringer_CN_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_013_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_013		459300
+	937082758	Flamebringer_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_012		713038
+	939297115	Flamebringer_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_018		380772
+	1037141508	Flamebringer_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_034		70190
+	1072136744	Flamebringer_CN_011	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Flamebringer_CN_011_9E69E797.wem		\Actor-Mixer Hierarchy\Flamebringer\Flamebringer_CN_011		1410384
+

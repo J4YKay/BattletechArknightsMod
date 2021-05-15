@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_supporter",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Supporter",
+	"Description" : "Supporters provide various means of field support, ranging from buffing other operators, debuffing their enemies, or utilizing summons in combat. Most Supporters' attacks deal Arts damage, allowing them to act as makeshift Casters. The Supporter class is divided into three archetypes: enabler, slower, and summoner."
+}

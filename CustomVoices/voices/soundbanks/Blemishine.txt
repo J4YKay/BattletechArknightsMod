@@ -1,0 +1,147 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1125697758	Blemishine_Stop_All			\Default Work Unit\Blemishine_Stop_All	
+	1481348960	Play_Blemishine_030			\Default Work Unit\Play_Blemishine_030	
+	1481348961	Play_Blemishine_031			\Default Work Unit\Play_Blemishine_031	
+	1481348962	Play_Blemishine_032			\Default Work Unit\Play_Blemishine_032	
+	1481348963	Play_Blemishine_033			\Default Work Unit\Play_Blemishine_033	
+	1481348964	Play_Blemishine_034			\Default Work Unit\Play_Blemishine_034	
+	1481348966	Play_Blemishine_036			\Default Work Unit\Play_Blemishine_036	
+	1498126544	Play_Blemishine_023			\Default Work Unit\Play_Blemishine_023	
+	1498126545	Play_Blemishine_022			\Default Work Unit\Play_Blemishine_022	
+	1498126546	Play_Blemishine_021			\Default Work Unit\Play_Blemishine_021	
+	1498126547	Play_Blemishine_020			\Default Work Unit\Play_Blemishine_020	
+	1498126548	Play_Blemishine_027			\Default Work Unit\Play_Blemishine_027	
+	1498126549	Play_Blemishine_026			\Default Work Unit\Play_Blemishine_026	
+	1498126550	Play_Blemishine_025			\Default Work Unit\Play_Blemishine_025	
+	1498126551	Play_Blemishine_024			\Default Work Unit\Play_Blemishine_024	
+	1498126554	Play_Blemishine_029			\Default Work Unit\Play_Blemishine_029	
+	1498126555	Play_Blemishine_028			\Default Work Unit\Play_Blemishine_028	
+	1514904129	Play_Blemishine_017			\Default Work Unit\Play_Blemishine_017	
+	1514904130	Play_Blemishine_014			\Default Work Unit\Play_Blemishine_014	
+	1514904132	Play_Blemishine_012			\Default Work Unit\Play_Blemishine_012	
+	1514904133	Play_Blemishine_013			\Default Work Unit\Play_Blemishine_013	
+	1514904134	Play_Blemishine_010			\Default Work Unit\Play_Blemishine_010	
+	1514904135	Play_Blemishine_011			\Default Work Unit\Play_Blemishine_011	
+	1514904142	Play_Blemishine_018			\Default Work Unit\Play_Blemishine_018	
+	1514904143	Play_Blemishine_019			\Default Work Unit\Play_Blemishine_019	
+	1531681848	Play_Blemishine_001			\Default Work Unit\Play_Blemishine_001	
+	1531681850	Play_Blemishine_003			\Default Work Unit\Play_Blemishine_003	
+	1531681853	Play_Blemishine_004			\Default Work Unit\Play_Blemishine_004	
+	1598792295	Play_Blemishine_042			\Default Work Unit\Play_Blemishine_042	
+
+Effect plug-ins	ID	Name	Type				Notes
+	8772907	radio (Custom)	Wwise Parametric EQ			
+	26529743	static (Custom)	Wwise Guitar Distortion			
+	33262088	radio (Custom)	Wwise Parametric EQ			
+	40927998	static (Custom)	Wwise Guitar Distortion			
+	61400543	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	77555554	radio (Custom)	Wwise Parametric EQ			
+	92429279	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	121681631	radio (Custom)	Wwise Parametric EQ			
+	126465372	static (Custom)	Wwise Guitar Distortion			
+	130129487	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	130181801	radio (Custom)	Wwise Parametric EQ			
+	148274705	static (Custom)	Wwise Guitar Distortion			
+	150076537	static (Custom)	Wwise Guitar Distortion			
+	166184541	radio (Custom)	Wwise Parametric EQ			
+	172023549	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	172530403	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	193563255	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	196174282	radio (Custom)	Wwise Parametric EQ			
+	198915473	static (Custom)	Wwise Guitar Distortion			
+	201455073	static (Custom)	Wwise Guitar Distortion			
+	234065612	static (Custom)	Wwise Guitar Distortion			
+	247788714	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	253996776	static (Custom)	Wwise Guitar Distortion			
+	269464587	static (Custom)	Wwise Guitar Distortion			
+	270608226	radio (Custom)	Wwise Parametric EQ			
+	285282934	radio (Custom)	Wwise Parametric EQ			
+	285444860	static (Custom)	Wwise Guitar Distortion			
+	332899804	radio (Custom)	Wwise Parametric EQ			
+	342505092	radio (Custom)	Wwise Parametric EQ			
+	350715318	radio (Custom)	Wwise Parametric EQ			
+	372922981	radio (Custom)	Wwise Parametric EQ			
+	388291994	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	421901426	static (Custom)	Wwise Guitar Distortion			
+	441952511	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	450659358	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	450802861	radio (Custom)	Wwise Parametric EQ			
+	462040300	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	466375872	radio (Custom)	Wwise Parametric EQ			
+	475557483	static (Custom)	Wwise Guitar Distortion			
+	498474608	radio (Custom)	Wwise Parametric EQ			
+	505499508	static (Custom)	Wwise Guitar Distortion			
+	518858409	static (Custom)	Wwise Guitar Distortion			
+	530185650	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	559339706	radio (Custom)	Wwise Parametric EQ			
+	568629120	radio (Custom)	Wwise Parametric EQ			
+	595666385	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	607269682	radio (Custom)	Wwise Parametric EQ			
+	612414475	static (Custom)	Wwise Guitar Distortion			
+	627967172	static (Custom)	Wwise Guitar Distortion			
+	629738974	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	631501493	radio (Custom)	Wwise Parametric EQ			
+	657285016	radio (Custom)	Wwise Parametric EQ			
+	660998441	radio (Custom)	Wwise Parametric EQ			
+	662042517	radio (Custom)	Wwise Parametric EQ			
+	696871954	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	719184131	radio (Custom)	Wwise Parametric EQ			
+	719570609	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	732824132	radio (Custom)	Wwise Parametric EQ			
+	737301537	static (Custom)	Wwise Guitar Distortion			
+	739607011	radio (Custom)	Wwise Parametric EQ			
+	741077136	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	755997357	radio (Custom)	Wwise Parametric EQ			
+	759411999	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	773500198	static (Custom)	Wwise Guitar Distortion			
+	793158398	static (Custom)	Wwise Guitar Distortion			
+	818178894	static (Custom)	Wwise Guitar Distortion			
+	843096993	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	843871156	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	844885142	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	860163883	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	872002684	radio (Custom)	Wwise Parametric EQ			
+	888203291	static (Custom)	Wwise Guitar Distortion			
+	902890691	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	921459159	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	922528826	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	964914275	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	965322815	static (Custom)	Wwise Guitar Distortion			
+	1001562080	static (Custom)	Wwise Guitar Distortion			
+	1042296743	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1042438483	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1043776581	static (Custom)	Wwise Guitar Distortion			
+	1064048711	static (Custom)	Wwise Guitar Distortion			
+	1071144156	static (Custom)	Wwise Guitar Distortion			
+	1071991554	static (Custom)	Wwise Guitar Distortion			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	77650107	Blemishine_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_020_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_020		344306
+	82008820	Blemishine_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_021_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_021		126848
+	89882801	Blemishine_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_030_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_030		642798
+	133210293	Blemishine_011	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_011_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_011		1110190
+	213961709	Blemishine_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_019_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_019		198998
+	243783560	Blemishine_014	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_014_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_014		1242078
+	339901470	Blemishine_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_010_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_010		622566
+	365144071	Blemishine_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_034_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_034		309386
+	418428212	Blemishine_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_042_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_042		221466
+	439556148	Blemishine_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_032_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_032		343116
+	441683939	Blemishine_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_017_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_017		285364
+	461617815	Blemishine_004	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_004_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_004		1741104
+	485348264	Blemishine_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_018_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_018		435694
+	503848878	Blemishine_003	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_003_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_003		1415318
+	517918676	Blemishine_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_001_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_001		639266
+	609832349	Blemishine_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_013_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_013		659094
+	651698889	Blemishine_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_025_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_025		118672
+	666101031	Blemishine_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_022_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_022		128916
+	705710994	Blemishine_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_028_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_028		123490
+	743366276	Blemishine_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_026_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_026		121442
+	748581265	Blemishine_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_023_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_023		143830
+	805575875	Blemishine_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_033_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_033		496402
+	815280481	Blemishine_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_029_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_029		474210
+	874038446	Blemishine_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_036_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_036		669086
+	909837311	Blemishine_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_027_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_027		119762
+	916936201	Blemishine_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_031_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_031		234416
+	970958049	Blemishine_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_024_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_024		188820
+	1005321325	Blemishine_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Blemishine_012_9E69E797.wem		\Actor-Mixer Hierarchy\Blemishine\Blemishine_012		361456
+

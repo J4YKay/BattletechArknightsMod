@@ -1,0 +1,51 @@
+{
+    "ID" : "faction_RhodesIsland",
+    "Name" : "Rhodes Island Pharmaceuticals Inc",
+    "ShortName" : "Rhodes Island",
+    "Description" : "Rhodes Island Pharmaceuticals Inc. is a registered drug R&D company working on medical solutions for countries, organizations, and individuals infected with Oripathy. To achieve their goal, Rhodes Island recruits talent from all around the world, regardless of background, experience, or condition. Furthermore, Rhodes Island is committed to providing the best medical and living conditions for its employees, attracting movers and shakers — Infected or not — to try to change the world.",
+    "Demonym" : "Humanitarian NGO",
+    "Government" : "Coalition",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        
+    ],
+    "Presence" : 0.1,
+    "ReputationStatements" : [
+        "Where did we go wrong? What turned you against us? Was it money? Power? We can offer those. As far as you've drifted from us, we still know your value. Please, accept this offer and aid us.",
+        "I mourn our friendship of old, Doctor. I don't know what led you away from us, but for the sake of our old allegiance, the Restoration offers you this contract. Please\u2026 come back to us.",
+        "Doctor, the Restoration would like to call upon you again. You served adequately in the past, and we entrust you with this contract in the hope that you can show us some of that old fire you once had.",
+        "I know you've already done so much for us, but we need your skills, Doctor. With this, we gain a great advantage for the Restoration\u2014and you gain a payday, like always.",
+        "Doctor, the Restoration's fortunes rest upon your shoulders. Should you aid us in this task, both of us will be enriched by the outcomes. I hope you have the time to help us, and are willing to do so.",
+        "Doctor, the time is here once again: House Arano needs help, and you're the best positioned to lend it to us. We appreciate everything you've done for us, and as such we are prepared to reward you generously for your service.",
+        "We've come a long way together, Doctor, but I fear I have yet another favor to ask of you. Our fortunes are married together\u2014aid us, and we will aid you, as it's always been. We would not ask this of a lesser ally."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Excellent work, Doctor. I was right to put my faith in you. You're a critical part of the Restoration effort."
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"It wasn't a total wash, but it sure wasn't a roaring success, either. I understand that not every mission is going to be a gold-star victory, but I hope this isn't an indication of future performance."
+    ],
+	"BadFaithFailureStatements" : [ 
+		"I'm sorry to learn your mission was a failure, Doctor. I hope that occurrences like this will be rare. If they're not, you'll probably be out of 'Mechs before too long."
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_KameaDefault",
+    "DefaultRepresentativeCastDefId" : "castDef_KameaDefault",
+    "DataManager" : null,
+    "factionID" : "RhodesIsland",
+    "icon" : "rhodes_island",
+    "heraldryDefId" : "heraldrydef_RhodesIsland",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+   "Description": {
+      "Id": "pilot_arknights_schwarz",
+      "Name": "Schwarz",
+      "FirstName": "Shizuka",
+      "LastName": "Itou",
+      "Callsign": "Schwarz",
+      "Gender": "Female",
+      "factionID": "RhodesIsland",
+      "Age": 40,
+      "Details": "Formerly both SP for the Mayor of Siesta and the Bureau Chief of the Urban Public Security Bureau, she joined Rhodes Island at the same time as Ceylon.\nShe has outstanding achievements in covert operations, reconnaissance and anti-reconnaissance, survival, and crossbow usage. She is in charge of protecting the Doctor and is responsible for the training of basic level Rhodes Islands operators.",
+      "Icon": "portrait_arknights_mostima"
+   },
+   "BaseGunnery": 2,
+   "BonusGunnery": 0,
+   "BasePiloting": 2,
+   "BonusPiloting": 0,
+   "BaseGuts": 2,
+   "BonusGuts": 0,
+   "BaseTactics": 2,
+   "BonusTactics": 0,
+   "ExperienceUnspent": 10000,
+   "ExperienceSpent": 0,
+   "Injuries": 0,
+   "Health": 3,
+   "LethalInjury": false,
+   "Incapacitated": false,
+   "Morale": 0,
+   "Voice": "Schwarz_voicepack",
+   "abilityDefNames": [],
+   "AIPersonality": "Undefined",
+   "PilotTags": {
+      "items": [
+         "BLACKLISTED",
+         "pilot_mechwarrior",
+         "pilot_military",
+         "pilot_brave",
+         "pilot_athletic",
+         "pilot_command",
+         "pilot_assassin",
+         "pilot_cautious",
+         "pilot_lucky",
+         "pilot_siesta",
+         "pilot_arknights",
+         "pilot_sniper",
+         "name_Schwarz"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "PilotCost": 0,
+   "IsRonin": true
+}

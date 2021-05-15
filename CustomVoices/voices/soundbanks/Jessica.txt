@@ -1,0 +1,137 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2265212764	Jessica_Stop_All			\Default Work Unit\Jessica_Stop_All	
+	3417674640	Play_Jessica_CN_030			\Default Work Unit\Play_Jessica_CN_030	
+	3417674641	Play_Jessica_CN_031			\Default Work Unit\Play_Jessica_CN_031	
+	3417674642	Play_Jessica_CN_032			\Default Work Unit\Play_Jessica_CN_032	
+	3417674643	Play_Jessica_CN_033			\Default Work Unit\Play_Jessica_CN_033	
+	3417674644	Play_Jessica_CN_034			\Default Work Unit\Play_Jessica_CN_034	
+	3417674646	Play_Jessica_CN_036			\Default Work Unit\Play_Jessica_CN_036	
+	3434452224	Play_Jessica_CN_023			\Default Work Unit\Play_Jessica_CN_023	
+	3434452225	Play_Jessica_CN_022			\Default Work Unit\Play_Jessica_CN_022	
+	3434452226	Play_Jessica_CN_021			\Default Work Unit\Play_Jessica_CN_021	
+	3434452227	Play_Jessica_CN_020			\Default Work Unit\Play_Jessica_CN_020	
+	3434452228	Play_Jessica_CN_027			\Default Work Unit\Play_Jessica_CN_027	
+	3434452229	Play_Jessica_CN_026			\Default Work Unit\Play_Jessica_CN_026	
+	3434452230	Play_Jessica_CN_025			\Default Work Unit\Play_Jessica_CN_025	
+	3434452231	Play_Jessica_CN_024			\Default Work Unit\Play_Jessica_CN_024	
+	3434452234	Play_Jessica_CN_029			\Default Work Unit\Play_Jessica_CN_029	
+	3434452235	Play_Jessica_CN_028			\Default Work Unit\Play_Jessica_CN_028	
+	3451229937	Play_Jessica_CN_017			\Default Work Unit\Play_Jessica_CN_017	
+	3451229940	Play_Jessica_CN_012			\Default Work Unit\Play_Jessica_CN_012	
+	3451229941	Play_Jessica_CN_013			\Default Work Unit\Play_Jessica_CN_013	
+	3451229942	Play_Jessica_CN_010			\Default Work Unit\Play_Jessica_CN_010	
+	3451229950	Play_Jessica_CN_018			\Default Work Unit\Play_Jessica_CN_018	
+	3451229951	Play_Jessica_CN_019			\Default Work Unit\Play_Jessica_CN_019	
+	3468007520	Play_Jessica_CN_009			\Default Work Unit\Play_Jessica_CN_009	
+	3468007528	Play_Jessica_CN_001			\Default Work Unit\Play_Jessica_CN_001	
+	3468007533	Play_Jessica_CN_004			\Default Work Unit\Play_Jessica_CN_004	
+	3535117975	Play_Jessica_CN_042			\Default Work Unit\Play_Jessica_CN_042	
+
+Effect plug-ins	ID	Name	Type				Notes
+	16397699	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	21845149	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	23263209	radio (Custom)	Wwise Parametric EQ			
+	32409445	radio (Custom)	Wwise Parametric EQ			
+	36126991	radio (Custom)	Wwise Parametric EQ			
+	153804659	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	176540620	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	213019047	static (Custom)	Wwise Guitar Distortion			
+	220509243	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	231487842	static (Custom)	Wwise Guitar Distortion			
+	281466161	radio (Custom)	Wwise Parametric EQ			
+	281806411	static (Custom)	Wwise Guitar Distortion			
+	283397848	static (Custom)	Wwise Guitar Distortion			
+	285528211	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	303001504	radio (Custom)	Wwise Parametric EQ			
+	306668493	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	327999205	radio (Custom)	Wwise Parametric EQ			
+	340559737	static (Custom)	Wwise Guitar Distortion			
+	354190517	radio (Custom)	Wwise Parametric EQ			
+	369168996	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	373678419	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	376622038	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	423859596	radio (Custom)	Wwise Parametric EQ			
+	424664735	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	431678914	radio (Custom)	Wwise Parametric EQ			
+	436991299	radio (Custom)	Wwise Parametric EQ			
+	441433008	radio (Custom)	Wwise Parametric EQ			
+	450416968	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	466013013	static (Custom)	Wwise Guitar Distortion			
+	489502905	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	515659716	radio (Custom)	Wwise Parametric EQ			
+	521539182	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	531358902	static (Custom)	Wwise Guitar Distortion			
+	537202532	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	544862612	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	552679555	static (Custom)	Wwise Guitar Distortion			
+	562568119	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	574624079	static (Custom)	Wwise Guitar Distortion			
+	586439048	radio (Custom)	Wwise Parametric EQ			
+	586724761	radio (Custom)	Wwise Parametric EQ			
+	590916805	radio (Custom)	Wwise Parametric EQ			
+	592132362	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	595147320	static (Custom)	Wwise Guitar Distortion			
+	603801085	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	621771293	radio (Custom)	Wwise Parametric EQ			
+	633468410	static (Custom)	Wwise Guitar Distortion			
+	637333282	static (Custom)	Wwise Guitar Distortion			
+	638876196	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	681279742	radio (Custom)	Wwise Parametric EQ			
+	714092432	radio (Custom)	Wwise Parametric EQ			
+	714728860	static (Custom)	Wwise Guitar Distortion			
+	739295664	static (Custom)	Wwise Guitar Distortion			
+	745327254	static (Custom)	Wwise Guitar Distortion			
+	776107976	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	785857717	static (Custom)	Wwise Guitar Distortion			
+	787868898	static (Custom)	Wwise Guitar Distortion			
+	805082933	radio (Custom)	Wwise Parametric EQ			
+	824043634	radio (Custom)	Wwise Parametric EQ			
+	824623341	static (Custom)	Wwise Guitar Distortion			
+	832897888	radio (Custom)	Wwise Parametric EQ			
+	844023324	radio (Custom)	Wwise Parametric EQ			
+	857355670	radio (Custom)	Wwise Parametric EQ			
+	859179940	static (Custom)	Wwise Guitar Distortion			
+	879598623	static (Custom)	Wwise Guitar Distortion			
+	891529530	radio (Custom)	Wwise Parametric EQ			
+	902666124	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	916152865	static (Custom)	Wwise Guitar Distortion			
+	926751406	radio (Custom)	Wwise Parametric EQ			
+	928077801	static (Custom)	Wwise Guitar Distortion			
+	930846102	radio (Custom)	Wwise Parametric EQ			
+	942425743	static (Custom)	Wwise Guitar Distortion			
+	948017387	static (Custom)	Wwise Guitar Distortion			
+	966920201	static (Custom)	Wwise Guitar Distortion			
+	969238395	static (Custom)	Wwise Guitar Distortion			
+	1037024071	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1063161413	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1068196780	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1073324373	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	13781535	Jessica_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_031		495022
+	25000055	Jessica_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_024		88682
+	63913701	Jessica_CN_004	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_004_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_004		929808
+	70980072	Jessica_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_032		655692
+	100758210	Jessica_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_034		120136
+	168765139	Jessica_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_017		224402
+	238356952	Jessica_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_030		609456
+	247237019	Jessica_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_028		129704
+	299129153	Jessica_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_012		373912
+	365625271	Jessica_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_036		222148
+	401625343	Jessica_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_025		130186
+	421086933	Jessica_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_042		202590
+	605067517	Jessica_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_026		94384
+	661837379	Jessica_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_027		186830
+	707770805	Jessica_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_029		505764
+	710922281	Jessica_CN_009	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_009_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_009		1189828
+	745113407	Jessica_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_019		300496
+	753323424	Jessica_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_023		94234
+	776867211	Jessica_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_010		705098
+	789563701	Jessica_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_020		291048
+	801958450	Jessica_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_021		144932
+	819500375	Jessica_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_022		71190
+	826516250	Jessica_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_033		314416
+	832862499	Jessica_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_018		237692
+	896058446	Jessica_CN_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_013_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_013		737726
+	910401111	Jessica_CN_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Jessica_CN_001_9E69E797.wem		\Actor-Mixer Hierarchy\Jessica\Jessica_CN_001		464464
+

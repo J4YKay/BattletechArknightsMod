@@ -1,0 +1,137 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4007923547	Play_Schwarz_CN_042			\Default Work Unit\Play_Schwarz_CN_042	
+	4024701128	Play_Schwarz_CN_034			\Default Work Unit\Play_Schwarz_CN_034	
+	4024701130	Play_Schwarz_CN_036			\Default Work Unit\Play_Schwarz_CN_036	
+	4024701132	Play_Schwarz_CN_030			\Default Work Unit\Play_Schwarz_CN_030	
+	4024701133	Play_Schwarz_CN_031			\Default Work Unit\Play_Schwarz_CN_031	
+	4024701134	Play_Schwarz_CN_032			\Default Work Unit\Play_Schwarz_CN_032	
+	4024701135	Play_Schwarz_CN_033			\Default Work Unit\Play_Schwarz_CN_033	
+	4041478838	Play_Schwarz_CN_029			\Default Work Unit\Play_Schwarz_CN_029	
+	4041478839	Play_Schwarz_CN_028			\Default Work Unit\Play_Schwarz_CN_028	
+	4041478840	Play_Schwarz_CN_027			\Default Work Unit\Play_Schwarz_CN_027	
+	4041478841	Play_Schwarz_CN_026			\Default Work Unit\Play_Schwarz_CN_026	
+	4041478842	Play_Schwarz_CN_025			\Default Work Unit\Play_Schwarz_CN_025	
+	4041478843	Play_Schwarz_CN_024			\Default Work Unit\Play_Schwarz_CN_024	
+	4041478844	Play_Schwarz_CN_023			\Default Work Unit\Play_Schwarz_CN_023	
+	4041478845	Play_Schwarz_CN_022			\Default Work Unit\Play_Schwarz_CN_022	
+	4041478846	Play_Schwarz_CN_021			\Default Work Unit\Play_Schwarz_CN_021	
+	4041478847	Play_Schwarz_CN_020			\Default Work Unit\Play_Schwarz_CN_020	
+	4058256400	Play_Schwarz_CN_012			\Default Work Unit\Play_Schwarz_CN_012	
+	4058256402	Play_Schwarz_CN_010			\Default Work Unit\Play_Schwarz_CN_010	
+	4058256405	Play_Schwarz_CN_017			\Default Work Unit\Play_Schwarz_CN_017	
+	4058256410	Play_Schwarz_CN_018			\Default Work Unit\Play_Schwarz_CN_018	
+	4058256411	Play_Schwarz_CN_019			\Default Work Unit\Play_Schwarz_CN_019	
+	4075033986	Play_Schwarz_CN_007			\Default Work Unit\Play_Schwarz_CN_007	
+	4075033988	Play_Schwarz_CN_001			\Default Work Unit\Play_Schwarz_CN_001	
+	4075033990	Play_Schwarz_CN_003			\Default Work Unit\Play_Schwarz_CN_003	
+	4075033991	Play_Schwarz_CN_002			\Default Work Unit\Play_Schwarz_CN_002	
+	4110022360	Schwarz_Stop_All			\Default Work Unit\Schwarz_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	655231	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	5544793	static (Custom)	Wwise Guitar Distortion			
+	13480497	radio (Custom)	Wwise Parametric EQ			
+	18107053	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	18666666	static (Custom)	Wwise Guitar Distortion			
+	24248382	radio (Custom)	Wwise Parametric EQ			
+	28742093	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	59242192	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	96027963	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	102832838	static (Custom)	Wwise Guitar Distortion			
+	109047146	radio (Custom)	Wwise Parametric EQ			
+	112923257	static (Custom)	Wwise Guitar Distortion			
+	128775509	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	132063825	static (Custom)	Wwise Guitar Distortion			
+	147427138	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	156016714	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	158583414	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	173987367	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	199829762	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	201304220	radio (Custom)	Wwise Parametric EQ			
+	215732101	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	216686482	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	219719956	static (Custom)	Wwise Guitar Distortion			
+	232808945	static (Custom)	Wwise Guitar Distortion			
+	233718172	radio (Custom)	Wwise Parametric EQ			
+	267483421	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	275556909	static (Custom)	Wwise Guitar Distortion			
+	299561723	radio (Custom)	Wwise Parametric EQ			
+	320282895	static (Custom)	Wwise Guitar Distortion			
+	331012249	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	358273052	radio (Custom)	Wwise Parametric EQ			
+	362732505	static (Custom)	Wwise Guitar Distortion			
+	410730983	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	433382666	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	446681706	static (Custom)	Wwise Guitar Distortion			
+	454269993	radio (Custom)	Wwise Parametric EQ			
+	455308467	radio (Custom)	Wwise Parametric EQ			
+	458089756	static (Custom)	Wwise Guitar Distortion			
+	473568934	radio (Custom)	Wwise Parametric EQ			
+	473663887	radio (Custom)	Wwise Parametric EQ			
+	481974493	static (Custom)	Wwise Guitar Distortion			
+	490132383	radio (Custom)	Wwise Parametric EQ			
+	517082395	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	530898960	static (Custom)	Wwise Guitar Distortion			
+	531923770	radio (Custom)	Wwise Parametric EQ			
+	569430489	static (Custom)	Wwise Guitar Distortion			
+	571635365	radio (Custom)	Wwise Parametric EQ			
+	608770432	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	694168404	radio (Custom)	Wwise Parametric EQ			
+	729902942	static (Custom)	Wwise Guitar Distortion			
+	731292537	static (Custom)	Wwise Guitar Distortion			
+	737244571	radio (Custom)	Wwise Parametric EQ			
+	737510469	static (Custom)	Wwise Guitar Distortion			
+	759990895	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	814890398	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	821673437	static (Custom)	Wwise Guitar Distortion			
+	825615066	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	867893938	static (Custom)	Wwise Guitar Distortion			
+	867942369	radio (Custom)	Wwise Parametric EQ			
+	871678077	radio (Custom)	Wwise Parametric EQ			
+	872220999	radio (Custom)	Wwise Parametric EQ			
+	873343125	static (Custom)	Wwise Guitar Distortion			
+	915735710	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	915797028	radio (Custom)	Wwise Parametric EQ			
+	918528169	static (Custom)	Wwise Guitar Distortion			
+	933220677	radio (Custom)	Wwise Parametric EQ			
+	951094448	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	960618388	static (Custom)	Wwise Guitar Distortion			
+	972412260	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	973282247	radio (Custom)	Wwise Parametric EQ			
+	989315754	radio (Custom)	Wwise Parametric EQ			
+	1026703646	static (Custom)	Wwise Guitar Distortion			
+	1045254563	radio (Custom)	Wwise Parametric EQ			
+	1049092214	static (Custom)	Wwise Guitar Distortion			
+	1049560908	radio (Custom)	Wwise Parametric EQ			
+	1053210708	radio (Custom)	Wwise Parametric EQ			
+	1060788459	static (Custom)	Wwise Guitar Distortion			
+	1066381651	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3198406	Schwarz_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_028		344974
+	22512927	Schwarz_CN_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_001_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_001		611360
+	47848315	Schwarz_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_036		236878
+	162728916	Schwarz_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_022		39642
+	169787735	Schwarz_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_017		197990
+	244133869	Schwarz_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_042		317692
+	260578490	Schwarz_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_024		122048
+	294929712	Schwarz_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_032		405650
+	467850800	Schwarz_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_021		136180
+	473284408	Schwarz_CN_007	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_007_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_007		1120488
+	483994296	Schwarz_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_029		678688
+	565074877	Schwarz_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_025		102916
+	565907296	Schwarz_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_012		739664
+	578760421	Schwarz_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_026		138988
+	619407321	Schwarz_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_023		140212
+	685905570	Schwarz_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_027		129770
+	687588649	Schwarz_CN_002	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_002_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_002		846484
+	734086744	Schwarz_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_034		377312
+	776191518	Schwarz_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_033		290994
+	818278337	Schwarz_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_020		196404
+	875940958	Schwarz_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_010		664728
+	894875183	Schwarz_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_019		73526
+	921296700	Schwarz_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_030		300088
+	922681538	Schwarz_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_018		180024
+	940324634	Schwarz_CN_003	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_003_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_003		1176568
+	951550029	Schwarz_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Schwarz_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Schwarz\Schwarz_CN_031		347980
+

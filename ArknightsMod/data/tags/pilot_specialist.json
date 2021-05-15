@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_specialist",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Specialist",
+	"Description" : "True to the name, Specialists are Operators with specialized functionalities that allow them to influence the battle in various ways, ranging from single-handedly dispatching priority targets, acting as a diversion, or using the terrain to their advantage. The Specialist class is divided into four archetypes: shift, fast-redeploy, controller, and ranged."
+}

@@ -1,0 +1,48 @@
+{
+    "Name": "ArknightsMod",
+    "Enabled": true,
+    "version": "0.2.0-SNAPSHOT",
+    "Description": "Arknights mod changing starting faction to Rhodes Island, with added AK operators as pilots",
+    "Author": "Doktah",
+    "DependsOn": [
+        "CustomVoices"
+    ],
+    "DataAddendumEntries": [
+        {
+            "name": "BattleTech.FactionEnumeration",
+            "path": "data/enums/RhodesIslandFaction.json"
+        }
+    ],
+    "Manifest": [
+        {
+            "Type": "Sprite",
+            "Path": "emblems",
+            "AddToAddendum": "PlayerEmblems"
+        },
+        {
+            "Type": "Texture2D",
+            "Path": "emblems",
+            "AddToAddendum": "PlayerEmblems"
+        },
+        {
+            "Type": "CustomTag",
+            "Path": "data/tags"
+        },
+        {
+            "Type": "FactionDef",
+            "Path": "data/factions"
+        },
+        {
+            "Type": "HeraldryDef",
+            "Path": "data/heraldry"
+        },
+        {
+            "Type": "PilotDef",
+            "Path": "data/pilot"
+        },
+        {
+            "Type": "PortraitSettings",
+            "Path": "data/portraits"
+        }
+    ]
+}

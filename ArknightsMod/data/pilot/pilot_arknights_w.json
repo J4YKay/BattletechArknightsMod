@@ -1,0 +1,53 @@
+{
+   "Description": {
+      "Id": "pilot_arknights_w",
+      "Name": "W",
+      "FirstName": "Ayana",
+      "LastName": "Taketatsu",
+      "Callsign": "W",
+      "Gender": "Female",
+      "factionID": "RhodesIsland",
+      "Age": 31,
+      "Details": "W, Sarkaz mercenary leader. W's squad, having been involved in Kazdel's lengthy civil war, is infamous for their brutal and efficient combat methods. W clashed with Rhodes Island during the Chernobog incident, but after defecting from Reunion for unknown reasons, signed a strategic cooperation agreement with Rhodes Island after negotiating with Dr. Kal'tsit in person.",
+      "Icon": "portrait_arknights_w"
+   },
+   "BaseGunnery": 2,
+   "BonusGunnery": 0,
+   "BasePiloting": 2,
+   "BonusPiloting": 0,
+   "BaseGuts": 2,
+   "BonusGuts": 0,
+   "BaseTactics": 2,
+   "BonusTactics": 0,
+   "ExperienceUnspent": 10000,
+   "ExperienceSpent": 0,
+   "Injuries": 0,
+   "Health": 3,
+   "LethalInjury": false,
+   "Incapacitated": false,
+   "Morale": 0,
+   "Voice": "W_voicepack",
+   "abilityDefNames": [],
+   "AIPersonality": "Undefined",
+   "PilotTags": {
+      "items": [
+         "BLACKLISTED",
+         "pilot_mechwarrior",
+         "pilot_military",
+         "pilot_brave",
+         "pilot_rebellious",
+         "pilot_jinxed",
+         "pilot_reckless",
+         "pilot_disgraced",
+         "pilot_criminal",
+         "pilot_tech",
+         "pilot_babel",
+         "pilot_arknights",
+         "pilot_sniper",
+         "name_W"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "PilotCost": 0,
+   "IsRonin": true
+}

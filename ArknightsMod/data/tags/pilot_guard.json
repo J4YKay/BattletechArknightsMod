@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_guard",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Guard",
+	"Description" : "Guards often have good synergy with the other classes, especially Defenders who can block enemies to be pummeled by Guards or with each other to deal even more damage with coordinated attacks. The Guard class is divided into three archetypes: ST, AoE, and ranged."
+}

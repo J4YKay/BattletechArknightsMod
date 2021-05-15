@@ -1,0 +1,147 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4071435358	Kroos_Stop_All			\Default Work Unit\Kroos_Stop_All	
+	4100429897	Play_Kroos_042			\Default Work Unit\Play_Kroos_042	
+	4150762755	Play_Kroos_017			\Default Work Unit\Play_Kroos_017	
+	4150762756	Play_Kroos_010			\Default Work Unit\Play_Kroos_010	
+	4150762757	Play_Kroos_011			\Default Work Unit\Play_Kroos_011	
+	4150762758	Play_Kroos_012			\Default Work Unit\Play_Kroos_012	
+	4150762759	Play_Kroos_013			\Default Work Unit\Play_Kroos_013	
+	4150762764	Play_Kroos_018			\Default Work Unit\Play_Kroos_018	
+	4150762765	Play_Kroos_019			\Default Work Unit\Play_Kroos_019	
+	4167540464	Play_Kroos_007			\Default Work Unit\Play_Kroos_007	
+	4167540466	Play_Kroos_005			\Default Work Unit\Play_Kroos_005	
+	4167540468	Play_Kroos_003			\Default Work Unit\Play_Kroos_003	
+	4167540470	Play_Kroos_001			\Default Work Unit\Play_Kroos_001	
+	4167540479	Play_Kroos_008			\Default Work Unit\Play_Kroos_008	
+	4184318056	Play_Kroos_032			\Default Work Unit\Play_Kroos_032	
+	4184318057	Play_Kroos_033			\Default Work Unit\Play_Kroos_033	
+	4184318058	Play_Kroos_030			\Default Work Unit\Play_Kroos_030	
+	4184318059	Play_Kroos_031			\Default Work Unit\Play_Kroos_031	
+	4184318060	Play_Kroos_036			\Default Work Unit\Play_Kroos_036	
+	4184318062	Play_Kroos_034			\Default Work Unit\Play_Kroos_034	
+	4201095636	Play_Kroos_029			\Default Work Unit\Play_Kroos_029	
+	4201095640	Play_Kroos_025			\Default Work Unit\Play_Kroos_025	
+	4201095641	Play_Kroos_024			\Default Work Unit\Play_Kroos_024	
+	4201095642	Play_Kroos_027			\Default Work Unit\Play_Kroos_027	
+	4201095643	Play_Kroos_026			\Default Work Unit\Play_Kroos_026	
+	4201095644	Play_Kroos_021			\Default Work Unit\Play_Kroos_021	
+	4201095645	Play_Kroos_020			\Default Work Unit\Play_Kroos_020	
+	4201095646	Play_Kroos_023			\Default Work Unit\Play_Kroos_023	
+	4201095647	Play_Kroos_022			\Default Work Unit\Play_Kroos_022	
+
+Effect plug-ins	ID	Name	Type				Notes
+	26524458	radio (Custom)	Wwise Parametric EQ			
+	42472490	radio (Custom)	Wwise Parametric EQ			
+	57234572	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	71131693	radio (Custom)	Wwise Parametric EQ			
+	72495963	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	98488418	radio (Custom)	Wwise Parametric EQ			
+	101715295	static (Custom)	Wwise Guitar Distortion			
+	111097246	static (Custom)	Wwise Guitar Distortion			
+	123563295	radio (Custom)	Wwise Parametric EQ			
+	162280614	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	165351476	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	169220773	static (Custom)	Wwise Guitar Distortion			
+	173388941	radio (Custom)	Wwise Parametric EQ			
+	173583593	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	178290477	static (Custom)	Wwise Guitar Distortion			
+	180919179	static (Custom)	Wwise Guitar Distortion			
+	191211313	static (Custom)	Wwise Guitar Distortion			
+	205064961	static (Custom)	Wwise Guitar Distortion			
+	220488571	static (Custom)	Wwise Guitar Distortion			
+	243275737	radio (Custom)	Wwise Parametric EQ			
+	257294699	static (Custom)	Wwise Guitar Distortion			
+	261531985	radio (Custom)	Wwise Parametric EQ			
+	264031880	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	272332515	static (Custom)	Wwise Guitar Distortion			
+	330999677	static (Custom)	Wwise Guitar Distortion			
+	337637766	radio (Custom)	Wwise Parametric EQ			
+	342445907	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	350662362	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	359241284	static (Custom)	Wwise Guitar Distortion			
+	362492832	radio (Custom)	Wwise Parametric EQ			
+	367077033	static (Custom)	Wwise Guitar Distortion			
+	371081504	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	381797644	static (Custom)	Wwise Guitar Distortion			
+	403262395	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	411544585	static (Custom)	Wwise Guitar Distortion			
+	426927903	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	435586222	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	451408770	radio (Custom)	Wwise Parametric EQ			
+	467805151	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	483341272	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	498141685	radio (Custom)	Wwise Parametric EQ			
+	511473044	static (Custom)	Wwise Guitar Distortion			
+	522387706	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	524033677	radio (Custom)	Wwise Parametric EQ			
+	540977365	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	543098827	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	546329792	static (Custom)	Wwise Guitar Distortion			
+	568795881	radio (Custom)	Wwise Parametric EQ			
+	595463151	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	619715043	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	624653583	radio (Custom)	Wwise Parametric EQ			
+	636881370	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	642449413	static (Custom)	Wwise Guitar Distortion			
+	678604370	radio (Custom)	Wwise Parametric EQ			
+	733230290	radio (Custom)	Wwise Parametric EQ			
+	742765066	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	749708802	radio (Custom)	Wwise Parametric EQ			
+	754502139	radio (Custom)	Wwise Parametric EQ			
+	785155477	radio (Custom)	Wwise Parametric EQ			
+	800175419	radio (Custom)	Wwise Parametric EQ			
+	801669294	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	815410520	radio (Custom)	Wwise Parametric EQ			
+	830126126	radio (Custom)	Wwise Parametric EQ			
+	854262259	static (Custom)	Wwise Guitar Distortion			
+	860339942	radio (Custom)	Wwise Parametric EQ			
+	866084658	static (Custom)	Wwise Guitar Distortion			
+	872670115	static (Custom)	Wwise Guitar Distortion			
+	873480855	static (Custom)	Wwise Guitar Distortion			
+	893623526	static (Custom)	Wwise Guitar Distortion			
+	908807113	static (Custom)	Wwise Guitar Distortion			
+	931100488	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	945471420	static (Custom)	Wwise Guitar Distortion			
+	954427859	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1000608354	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1001646035	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1003045111	static (Custom)	Wwise Guitar Distortion			
+	1023768408	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1031110153	static (Custom)	Wwise Guitar Distortion			
+	1036109685	radio (Custom)	Wwise Parametric EQ			
+	1046240001	static (Custom)	Wwise Guitar Distortion			
+	1056357921	radio (Custom)	Wwise Parametric EQ			
+	1062173120	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1068193744	radio (Custom)	Wwise Parametric EQ			
+	1071146594	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3209228	Kroos_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_024_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_024		343922
+	13960345	Kroos_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_022_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_022		212382
+	114677933	Kroos_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_020_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_020		429724
+	154975204	Kroos_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_017_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_017		371330
+	174799830	Kroos_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_027_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_027		178048
+	209272140	Kroos_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_013_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_013		760992
+	238058362	Kroos_007	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_007_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_007		734540
+	239372583	Kroos_008	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_008_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_008		1228182
+	265664790	Kroos_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_023_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_023		328462
+	297642157	Kroos_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_029_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_029		327990
+	306415150	Kroos_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_025_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_025		182998
+	462530476	Kroos_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_010_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_010		361486
+	475489279	Kroos_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_032_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_032		384054
+	524534339	Kroos_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_001_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_001		608704
+	622356278	Kroos_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_019_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_019		681862
+	723885616	Kroos_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_031_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_031		361984
+	725221332	Kroos_003	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_003_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_003		705116
+	740852143	Kroos_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_036_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_036		313110
+	745452936	Kroos_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_033_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_033		282544
+	765271831	Kroos_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_012_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_012		173752
+	790592226	Kroos_011	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_011_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_011		835090
+	819815798	Kroos_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_021_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_021		158276
+	873115368	Kroos_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_042_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_042		324896
+	893071427	Kroos_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_005_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_005		988246
+	900795041	Kroos_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_034_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_034		164766
+	986531090	Kroos_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_030_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_030		203152
+	1050412539	Kroos_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_026_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_026		273160
+	1053320159	Kroos_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kroos_018_9E69E797.wem		\Actor-Mixer Hierarchy\Kroos\Kroos_018		494740
+

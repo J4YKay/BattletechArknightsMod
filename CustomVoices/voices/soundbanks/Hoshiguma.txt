@@ -1,0 +1,142 @@
+Event	ID	Name			Wwise Object Path	Notes
+	763877029	Hoshiguma_Stop_All			\Default Work Unit\Hoshiguma_Stop_All	
+	3290850194	Play_Hoshiguma_CN_042			\Default Work Unit\Play_Hoshiguma_CN_042	
+	3357960665	Play_Hoshiguma_CN_005			\Default Work Unit\Play_Hoshiguma_CN_005	
+	3357960669	Play_Hoshiguma_CN_001			\Default Work Unit\Play_Hoshiguma_CN_001	
+	3357960670	Play_Hoshiguma_CN_002			\Default Work Unit\Play_Hoshiguma_CN_002	
+	3357960671	Play_Hoshiguma_CN_003			\Default Work Unit\Play_Hoshiguma_CN_003	
+	3374738246	Play_Hoshiguma_CN_019			\Default Work Unit\Play_Hoshiguma_CN_019	
+	3374738247	Play_Hoshiguma_CN_018			\Default Work Unit\Play_Hoshiguma_CN_018	
+	3374738248	Play_Hoshiguma_CN_017			\Default Work Unit\Play_Hoshiguma_CN_017	
+	3374738252	Play_Hoshiguma_CN_013			\Default Work Unit\Play_Hoshiguma_CN_013	
+	3374738253	Play_Hoshiguma_CN_012			\Default Work Unit\Play_Hoshiguma_CN_012	
+	3374738255	Play_Hoshiguma_CN_010			\Default Work Unit\Play_Hoshiguma_CN_010	
+	3391515936	Play_Hoshiguma_CN_022			\Default Work Unit\Play_Hoshiguma_CN_022	
+	3391515937	Play_Hoshiguma_CN_023			\Default Work Unit\Play_Hoshiguma_CN_023	
+	3391515938	Play_Hoshiguma_CN_020			\Default Work Unit\Play_Hoshiguma_CN_020	
+	3391515939	Play_Hoshiguma_CN_021			\Default Work Unit\Play_Hoshiguma_CN_021	
+	3391515940	Play_Hoshiguma_CN_026			\Default Work Unit\Play_Hoshiguma_CN_026	
+	3391515941	Play_Hoshiguma_CN_027			\Default Work Unit\Play_Hoshiguma_CN_027	
+	3391515942	Play_Hoshiguma_CN_024			\Default Work Unit\Play_Hoshiguma_CN_024	
+	3391515943	Play_Hoshiguma_CN_025			\Default Work Unit\Play_Hoshiguma_CN_025	
+	3391515946	Play_Hoshiguma_CN_028			\Default Work Unit\Play_Hoshiguma_CN_028	
+	3391515947	Play_Hoshiguma_CN_029			\Default Work Unit\Play_Hoshiguma_CN_029	
+	3408293521	Play_Hoshiguma_CN_034			\Default Work Unit\Play_Hoshiguma_CN_034	
+	3408293523	Play_Hoshiguma_CN_036			\Default Work Unit\Play_Hoshiguma_CN_036	
+	3408293524	Play_Hoshiguma_CN_031			\Default Work Unit\Play_Hoshiguma_CN_031	
+	3408293525	Play_Hoshiguma_CN_030			\Default Work Unit\Play_Hoshiguma_CN_030	
+	3408293526	Play_Hoshiguma_CN_033			\Default Work Unit\Play_Hoshiguma_CN_033	
+	3408293527	Play_Hoshiguma_CN_032			\Default Work Unit\Play_Hoshiguma_CN_032	
+
+Effect plug-ins	ID	Name	Type				Notes
+	6990263	radio (Custom)	Wwise Parametric EQ			
+	19466235	static (Custom)	Wwise Guitar Distortion			
+	49724832	static (Custom)	Wwise Guitar Distortion			
+	55626855	static (Custom)	Wwise Guitar Distortion			
+	76686121	radio (Custom)	Wwise Parametric EQ			
+	88562385	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	89353394	static (Custom)	Wwise Guitar Distortion			
+	96013321	radio (Custom)	Wwise Parametric EQ			
+	125229155	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	131042898	radio (Custom)	Wwise Parametric EQ			
+	161422698	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	170208987	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	178883095	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	184616154	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	196224508	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	216353639	radio (Custom)	Wwise Parametric EQ			
+	217546128	static (Custom)	Wwise Guitar Distortion			
+	251020492	radio (Custom)	Wwise Parametric EQ			
+	282028805	static (Custom)	Wwise Guitar Distortion			
+	288116015	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	290592207	static (Custom)	Wwise Guitar Distortion			
+	292230319	static (Custom)	Wwise Guitar Distortion			
+	304292344	static (Custom)	Wwise Guitar Distortion			
+	334803480	radio (Custom)	Wwise Parametric EQ			
+	353595787	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	365194595	static (Custom)	Wwise Guitar Distortion			
+	378076065	static (Custom)	Wwise Guitar Distortion			
+	379075904	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	388289239	radio (Custom)	Wwise Parametric EQ			
+	415810835	static (Custom)	Wwise Guitar Distortion			
+	418210237	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	430199707	radio (Custom)	Wwise Parametric EQ			
+	442481733	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	454856248	static (Custom)	Wwise Guitar Distortion			
+	462455214	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	480459516	radio (Custom)	Wwise Parametric EQ			
+	489537125	static (Custom)	Wwise Guitar Distortion			
+	492457165	static (Custom)	Wwise Guitar Distortion			
+	507328509	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	508205416	static (Custom)	Wwise Guitar Distortion			
+	510947440	static (Custom)	Wwise Guitar Distortion			
+	524840676	static (Custom)	Wwise Guitar Distortion			
+	542336979	radio (Custom)	Wwise Parametric EQ			
+	552846333	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	571209930	radio (Custom)	Wwise Parametric EQ			
+	589545251	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	602330022	static (Custom)	Wwise Guitar Distortion			
+	604243616	static (Custom)	Wwise Guitar Distortion			
+	616204736	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	619933869	radio (Custom)	Wwise Parametric EQ			
+	674290838	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	679682345	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	680825334	radio (Custom)	Wwise Parametric EQ			
+	682596380	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	683139389	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	690001811	static (Custom)	Wwise Guitar Distortion			
+	700428320	radio (Custom)	Wwise Parametric EQ			
+	713448697	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	756029776	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	762839791	radio (Custom)	Wwise Parametric EQ			
+	765210327	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	768458318	static (Custom)	Wwise Guitar Distortion			
+	800450569	static (Custom)	Wwise Guitar Distortion			
+	805546139	radio (Custom)	Wwise Parametric EQ			
+	806697675	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	815140831	radio (Custom)	Wwise Parametric EQ			
+	822499661	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	829843241	radio (Custom)	Wwise Parametric EQ			
+	831807342	radio (Custom)	Wwise Parametric EQ			
+	863491233	radio (Custom)	Wwise Parametric EQ			
+	878134742	radio (Custom)	Wwise Parametric EQ			
+	900389096	radio (Custom)	Wwise Parametric EQ			
+	901573376	radio (Custom)	Wwise Parametric EQ			
+	953078304	static (Custom)	Wwise Guitar Distortion			
+	966465070	radio (Custom)	Wwise Parametric EQ			
+	985000772	static (Custom)	Wwise Guitar Distortion			
+	1008059101	radio (Custom)	Wwise Parametric EQ			
+	1018336537	radio (Custom)	Wwise Parametric EQ			
+	1022032978	static (Custom)	Wwise Guitar Distortion			
+	1030008995	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1038268059	static (Custom)	Wwise Guitar Distortion			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	74805394	Hoshiguma_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_033		373348
+	138262877	Hoshiguma_CN_003	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_003_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_003		516518
+	190697694	Hoshiguma_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_023		200774
+	216046636	Hoshiguma_CN_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_001_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_001		518938
+	246396581	Hoshiguma_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_032		357788
+	254336215	Hoshiguma_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_029		404772
+	407474735	Hoshiguma_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_019		161058
+	429493445	Hoshiguma_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_017		163192
+	540310062	Hoshiguma_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_030		366242
+	543820809	Hoshiguma_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_028		482174
+	570485880	Hoshiguma_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_034		52012
+	572083739	Hoshiguma_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_025		234028
+	587420571	Hoshiguma_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_027		174694
+	681323780	Hoshiguma_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_022		68112
+	737540915	Hoshiguma_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_021		73954
+	827910040	Hoshiguma_CN_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_005_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_005		836926
+	843003232	Hoshiguma_CN_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_013_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_013		85028
+	856229172	Hoshiguma_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_012		193786
+	865622044	Hoshiguma_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_010		573428
+	872347305	Hoshiguma_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_026		508514
+	898817264	Hoshiguma_CN_002	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_002_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_002		480982
+	917416564	Hoshiguma_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_020		273766
+	919496569	Hoshiguma_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_036		445362
+	928372917	Hoshiguma_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_024		150260
+	966516889	Hoshiguma_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_042		121676
+	1006572545	Hoshiguma_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_031		383822
+	1033918287	Hoshiguma_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Hoshiguma_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Hoshiguma\Hoshiguma_CN_018		279850
+

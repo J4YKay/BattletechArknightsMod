@@ -1,0 +1,137 @@
+Event	ID	Name			Wwise Object Path	Notes
+	191294440	Play_Exusiai_030			\Default Work Unit\Play_Exusiai_030	
+	191294442	Play_Exusiai_032			\Default Work Unit\Play_Exusiai_032	
+	191294443	Play_Exusiai_033			\Default Work Unit\Play_Exusiai_033	
+	191294444	Play_Exusiai_034			\Default Work Unit\Play_Exusiai_034	
+	191294446	Play_Exusiai_036			\Default Work Unit\Play_Exusiai_036	
+	208072018	Play_Exusiai_029			\Default Work Unit\Play_Exusiai_029	
+	208072019	Play_Exusiai_028			\Default Work Unit\Play_Exusiai_028	
+	208072024	Play_Exusiai_023			\Default Work Unit\Play_Exusiai_023	
+	208072025	Play_Exusiai_022			\Default Work Unit\Play_Exusiai_022	
+	208072026	Play_Exusiai_021			\Default Work Unit\Play_Exusiai_021	
+	208072027	Play_Exusiai_020			\Default Work Unit\Play_Exusiai_020	
+	208072028	Play_Exusiai_027			\Default Work Unit\Play_Exusiai_027	
+	208072029	Play_Exusiai_026			\Default Work Unit\Play_Exusiai_026	
+	208072030	Play_Exusiai_025			\Default Work Unit\Play_Exusiai_025	
+	208072031	Play_Exusiai_024			\Default Work Unit\Play_Exusiai_024	
+	224849606	Play_Exusiai_018			\Default Work Unit\Play_Exusiai_018	
+	224849607	Play_Exusiai_019			\Default Work Unit\Play_Exusiai_019	
+	224849609	Play_Exusiai_017			\Default Work Unit\Play_Exusiai_017	
+	224849612	Play_Exusiai_012			\Default Work Unit\Play_Exusiai_012	
+	224849613	Play_Exusiai_013			\Default Work Unit\Play_Exusiai_013	
+	224849614	Play_Exusiai_010			\Default Work Unit\Play_Exusiai_010	
+	241627296	Play_Exusiai_001			\Default Work Unit\Play_Exusiai_001	
+	241627298	Play_Exusiai_003			\Default Work Unit\Play_Exusiai_003	
+	241627303	Play_Exusiai_006			\Default Work Unit\Play_Exusiai_006	
+	241627304	Play_Exusiai_009			\Default Work Unit\Play_Exusiai_009	
+	308737775	Play_Exusiai_042			\Default Work Unit\Play_Exusiai_042	
+	3684467096	Exusiai_Stop_All			\Default Work Unit\Exusiai_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	14750792	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	19899363	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	24898715	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	26989934	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	30131239	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	30388127	static (Custom)	Wwise Guitar Distortion			
+	48264540	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	50694185	radio (Custom)	Wwise Parametric EQ			
+	54502102	radio (Custom)	Wwise Parametric EQ			
+	68385532	radio (Custom)	Wwise Parametric EQ			
+	86550512	radio (Custom)	Wwise Parametric EQ			
+	122952275	static (Custom)	Wwise Guitar Distortion			
+	139835203	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	148280740	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	148425258	static (Custom)	Wwise Guitar Distortion			
+	151200218	radio (Custom)	Wwise Parametric EQ			
+	173786616	static (Custom)	Wwise Guitar Distortion			
+	184803953	radio (Custom)	Wwise Parametric EQ			
+	200281796	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	205779250	static (Custom)	Wwise Guitar Distortion			
+	209976482	radio (Custom)	Wwise Parametric EQ			
+	227385223	radio (Custom)	Wwise Parametric EQ			
+	267769179	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	286004617	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	291022267	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	297813854	radio (Custom)	Wwise Parametric EQ			
+	307384707	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	340382041	static (Custom)	Wwise Guitar Distortion			
+	363399976	static (Custom)	Wwise Guitar Distortion			
+	372917696	static (Custom)	Wwise Guitar Distortion			
+	383801520	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	388876187	radio (Custom)	Wwise Parametric EQ			
+	396622704	radio (Custom)	Wwise Parametric EQ			
+	402162135	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	405531398	radio (Custom)	Wwise Parametric EQ			
+	447076030	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	496507876	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	501399631	static (Custom)	Wwise Guitar Distortion			
+	520227370	static (Custom)	Wwise Guitar Distortion			
+	523259817	radio (Custom)	Wwise Parametric EQ			
+	523736984	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	544994608	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	555272484	static (Custom)	Wwise Guitar Distortion			
+	563016845	radio (Custom)	Wwise Parametric EQ			
+	591459473	static (Custom)	Wwise Guitar Distortion			
+	595948108	static (Custom)	Wwise Guitar Distortion			
+	641661318	static (Custom)	Wwise Guitar Distortion			
+	643202773	radio (Custom)	Wwise Parametric EQ			
+	659446427	static (Custom)	Wwise Guitar Distortion			
+	687649386	static (Custom)	Wwise Guitar Distortion			
+	728752779	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	735932814	radio (Custom)	Wwise Parametric EQ			
+	791493924	radio (Custom)	Wwise Parametric EQ			
+	810533682	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	811333052	static (Custom)	Wwise Guitar Distortion			
+	819235741	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	825933824	radio (Custom)	Wwise Parametric EQ			
+	836755304	static (Custom)	Wwise Guitar Distortion			
+	843815683	radio (Custom)	Wwise Parametric EQ			
+	847242268	static (Custom)	Wwise Guitar Distortion			
+	870193733	static (Custom)	Wwise Guitar Distortion			
+	878685258	radio (Custom)	Wwise Parametric EQ			
+	896137689	radio (Custom)	Wwise Parametric EQ			
+	901210316	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	914576187	static (Custom)	Wwise Guitar Distortion			
+	915177985	radio (Custom)	Wwise Parametric EQ			
+	928273731	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	941270867	static (Custom)	Wwise Guitar Distortion			
+	949518076	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	964530475	radio (Custom)	Wwise Parametric EQ			
+	969257099	radio (Custom)	Wwise Parametric EQ			
+	982984241	static (Custom)	Wwise Guitar Distortion			
+	1016720781	static (Custom)	Wwise Guitar Distortion			
+	1017196721	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1028545357	radio (Custom)	Wwise Parametric EQ			
+	1048081633	radio (Custom)	Wwise Parametric EQ			
+	1049134031	static (Custom)	Wwise Guitar Distortion			
+	1070201393	static (Custom)	Wwise Guitar Distortion			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	11619348	Exusiai_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_026_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_026		117296
+	49552710	Exusiai_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_017_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_017		323758
+	62001822	Exusiai_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_032_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_032		592302
+	107690742	Exusiai_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_025_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_025		122814
+	123527222	Exusiai_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_012_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_012		193356
+	163467681	Exusiai_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_013_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_013		228948
+	183940861	Exusiai_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_020_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_020		570550
+	206725030	Exusiai_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_018_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_018		553410
+	254306935	Exusiai_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_021_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_021		106320
+	311381013	Exusiai_006	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_006_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_006		465728
+	390159953	Exusiai_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_010_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_010		429508
+	578813571	Exusiai_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_042_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_042		140876
+	652738619	Exusiai_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_034_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_034		68080
+	660635725	Exusiai_009	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_009_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_009		744734
+	669684461	Exusiai_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_022_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_022		126500
+	684584038	Exusiai_003	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_003_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_003		516716
+	687642221	Exusiai_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_030_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_030		401774
+	707119770	Exusiai_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_001_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_001		256382
+	739684435	Exusiai_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_023_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_023		90646
+	769116927	Exusiai_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_027_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_027		82366
+	788706463	Exusiai_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_036_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_036		302152
+	789280148	Exusiai_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_033_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_033		193792
+	793830319	Exusiai_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_019_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_019		310184
+	836076868	Exusiai_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_029_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_029		222604
+	865097618	Exusiai_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_024_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_024		211824
+	960549456	Exusiai_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Exusiai_028_9E69E797.wem		\Actor-Mixer Hierarchy\Exusiai\Exusiai_028		102640
+

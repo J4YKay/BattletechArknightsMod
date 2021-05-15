@@ -1,0 +1,46 @@
+{
+    "Description": {
+        "Id": "pilot_backer_Woods",
+        "Name": "Ice Trey",
+        "FirstName": "Michael",
+        "LastName": "Woods",
+        "Callsign": "Ice Trey",
+        "Gender": "Male",
+        "factionID": "Davion",
+        "Age": "26",
+        "Details": "Michael Woods was born to a middle-class family in the Federated Suns. He grew up saluting House Davion, as every child did, and when he was grown, he applied for and was accepted to a trial program on Robinson that would eventually become the rebuilt Robinson Battle Academy. While there, he witnessed the growth of the anti-Kurita indoctrination program, and participated in the development of the unique Robinson Battle Academy culture.\r\n\r\nIt was a notable opportunity, but a risky one. Eventually, Michael Woods, with his practical middle-class values, became a liability to the dominating philosophy of the future Academy. During a training raid on Delacruz, Michael was sent deep behind enemy lines for recon, and then left behind. \r\n\r\nBut Michael Woods, practical and well-trained, survived. He adopted a local name to hide his identity, and masqueraded as a member of the unproductive class until he could secure transport off-world. \r\n\r\n At first, he expected all the horror stories fed to him about the Combine to be the truth, but quickly learned that not only had much of what he'd been taught had been a gross vilification, but numerous atrocities his own forces had committed were never spoken of. Selling his services as an unlicensed mercenary to the Delacruz yakuza oyabun, and eventually to other private concerns, he quickly gained a reputation for skill in reconnaissance and guerilla campaigns. Now, he considers himself a loyal servant of House Kurita, and hopes to one day strike back at his former COs who left him for dead.",
+        "Icon": "guiTxrPort_backerWoods_utr"
+    },
+    "BaseGunnery": "3",
+    "BonusGunnery": 0,
+    "BasePiloting": "2",
+    "BonusPiloting": 0,
+    "BaseGuts": "1",
+    "BonusGuts": 0,
+    "BaseTactics": "3",
+    "BonusTactics": 0,
+    "ExperienceUnspent": 0,
+    "ExperienceSpent": 1100,
+    "Injuries": 0,
+    "Health": 3,
+    "LethalInjury": false,
+    "Incapacitated": false,
+    "Morale": 0,
+    "Voice": "m_pro05_rick",
+    "abilityDefNames": [],
+    "AIPersonality": "Undefined",
+    "PilotTags": {
+        "items": [
+            "pilot_backer",
+            "BLACKLISTED",
+            "pilot_military",
+            "pilot_mechwarrior",
+            "name_Ice_Trey",
+            "pilot_kurita"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "PilotCost": 0,
+    "IsRonin": false,
+    "IsVanguard": true
+}

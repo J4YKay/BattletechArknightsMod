@@ -1,0 +1,10 @@
+{
+    "Name": "DisablePilots",
+    "Enabled": true,
+    "version": "0.0.1-SNAPSHOT",
+    "Description": "Mod to disable all standard pilots from appearing in hiring hall (Removes ronin tags and sets ronin chance to 100%) This is meant to be used with another mod which adds pilots to only pull from the new pilot pool.",
+    "Author": "Doktah",
+    "DependsOn": [],
+    "DataAddendumEntries": [],
+    "Manifest": []
+}

@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_sniper",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Sniper",
+	"Description" : "Snipers use ranged weaponry (usually crossbows/bows and firearms) to attack enemies from a long range, allowing them to dispatch enemies from safe distance. The Sniper class is divided into two archetypes: ST and AoE."
+}

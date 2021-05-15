@@ -1,0 +1,36 @@
+{
+	"Player1sMercUnitHeraldryDef": {
+		"Description": {
+			"Id": "heraldrydef_RhodesIsland",
+			"Name": "Rhodes Island",
+			"Details": "This is the heraldry def from SimGameConstants",
+			"Icon": "",
+			"Cost": 0,
+			"Rarity": 1,
+			"Purchasable": false
+		},
+		"displayName": "Rhodes Island Company Heraldry",
+		"textureLogoID": "rhodes_island",
+		"primaryMechColorID": "Metallic_Silver",
+		"secondaryMechColorID": "Greyscale_03",
+		"tertiaryMechColorID": "BrightWhite_01",
+		"HERALDRY_VERSION": 1
+	},
+	"Story": {
+		"StartingMechWarriors": [
+			"pilot_arknights_amiya",
+			"pilot_arknights_kroos",
+			"pilot_arknights_melantha",
+			"pilot_arknights_jessica",
+			"pilot_arknights_exusiai"
+
+		],
+		"StartingMechWarriorPortraits": [
+			"PortraitPreset_amiya",
+			"PortraitPreset_kroos",
+			"PortraitPreset_melantha",
+			"PortraitPreset_jessica",
+			"PortraitPreset_exusiai"
+		]
+	}
+}

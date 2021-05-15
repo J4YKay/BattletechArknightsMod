@@ -1,0 +1,7 @@
+{
+	"Name" : "pilot_defender",
+	"Important" : false,
+	"PlayerVisible" : true,
+	"FriendlyName" : "Defender",
+	"Description" : "Defenders are often placed in front of a formation to hold enemies back, draw enemy fire, protect friendly units behind them, and force enemies to bunch up into sitting ducks for AoE Operators. The Defender class is divided into four archetypes: tank, healing, enmity, and challenger."
+}

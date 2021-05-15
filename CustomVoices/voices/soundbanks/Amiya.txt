@@ -1,0 +1,147 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2700318945	Amiya_Stop_All			\Default Work Unit\Amiya_Stop_All	
+	3711380304	Play_Amiya_020			\Default Work Unit\Play_Amiya_020	
+	3711380305	Play_Amiya_021			\Default Work Unit\Play_Amiya_021	
+	3711380306	Play_Amiya_022			\Default Work Unit\Play_Amiya_022	
+	3711380307	Play_Amiya_023			\Default Work Unit\Play_Amiya_023	
+	3711380308	Play_Amiya_024			\Default Work Unit\Play_Amiya_024	
+	3711380309	Play_Amiya_025			\Default Work Unit\Play_Amiya_025	
+	3711380310	Play_Amiya_026			\Default Work Unit\Play_Amiya_026	
+	3711380311	Play_Amiya_027			\Default Work Unit\Play_Amiya_027	
+	3711380312	Play_Amiya_028			\Default Work Unit\Play_Amiya_028	
+	3711380313	Play_Amiya_029			\Default Work Unit\Play_Amiya_029	
+	3728157888	Play_Amiya_033			\Default Work Unit\Play_Amiya_033	
+	3728157889	Play_Amiya_032			\Default Work Unit\Play_Amiya_032	
+	3728157890	Play_Amiya_031			\Default Work Unit\Play_Amiya_031	
+	3728157891	Play_Amiya_030			\Default Work Unit\Play_Amiya_030	
+	3728157893	Play_Amiya_036			\Default Work Unit\Play_Amiya_036	
+	3728157895	Play_Amiya_034			\Default Work Unit\Play_Amiya_034	
+	3744935603	Play_Amiya_005			\Default Work Unit\Play_Amiya_005	
+	3744935604	Play_Amiya_002			\Default Work Unit\Play_Amiya_002	
+	3744935605	Play_Amiya_003			\Default Work Unit\Play_Amiya_003	
+	3744935607	Play_Amiya_001			\Default Work Unit\Play_Amiya_001	
+	3761713184	Play_Amiya_019			\Default Work Unit\Play_Amiya_019	
+	3761713185	Play_Amiya_018			\Default Work Unit\Play_Amiya_018	
+	3761713193	Play_Amiya_010			\Default Work Unit\Play_Amiya_010	
+	3761713194	Play_Amiya_013			\Default Work Unit\Play_Amiya_013	
+	3761713195	Play_Amiya_012			\Default Work Unit\Play_Amiya_012	
+	3761713197	Play_Amiya_014			\Default Work Unit\Play_Amiya_014	
+	3761713198	Play_Amiya_017			\Default Work Unit\Play_Amiya_017	
+	3812046048	Play_Amiya_042			\Default Work Unit\Play_Amiya_042	
+
+Effect plug-ins	ID	Name	Type				Notes
+	8853086	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	29849192	radio (Custom)	Wwise Parametric EQ			
+	34924065	radio (Custom)	Wwise Parametric EQ			
+	37924506	static (Custom)	Wwise Guitar Distortion			
+	43661942	radio (Custom)	Wwise Parametric EQ			
+	45341605	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	55323357	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	69640093	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	87441270	static (Custom)	Wwise Guitar Distortion			
+	109483246	static (Custom)	Wwise Guitar Distortion			
+	149126305	static (Custom)	Wwise Guitar Distortion			
+	162825531	radio (Custom)	Wwise Parametric EQ			
+	182613556	static (Custom)	Wwise Guitar Distortion			
+	192432217	radio (Custom)	Wwise Parametric EQ			
+	203764458	static (Custom)	Wwise Guitar Distortion			
+	219920160	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	226837208	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	237482049	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	238089415	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	246451032	static (Custom)	Wwise Guitar Distortion			
+	266089558	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	277987192	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	281055741	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	327693586	static (Custom)	Wwise Guitar Distortion			
+	341350264	static (Custom)	Wwise Guitar Distortion			
+	393564620	radio (Custom)	Wwise Parametric EQ			
+	400465195	radio (Custom)	Wwise Parametric EQ			
+	436790739	static (Custom)	Wwise Guitar Distortion			
+	446218270	static (Custom)	Wwise Guitar Distortion			
+	454189495	static (Custom)	Wwise Guitar Distortion			
+	461771755	radio (Custom)	Wwise Parametric EQ			
+	467056983	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	477713102	static (Custom)	Wwise Guitar Distortion			
+	487298392	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	510610238	radio (Custom)	Wwise Parametric EQ			
+	516270991	static (Custom)	Wwise Guitar Distortion			
+	527247989	radio (Custom)	Wwise Parametric EQ			
+	544107734	static (Custom)	Wwise Guitar Distortion			
+	551799373	static (Custom)	Wwise Guitar Distortion			
+	560493835	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	563160621	radio (Custom)	Wwise Parametric EQ			
+	567362190	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	577068475	radio (Custom)	Wwise Parametric EQ			
+	585737612	radio (Custom)	Wwise Parametric EQ			
+	599786013	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	610548280	static (Custom)	Wwise Guitar Distortion			
+	621886906	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	630184771	radio (Custom)	Wwise Parametric EQ			
+	636155123	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	661129302	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	677411718	radio (Custom)	Wwise Parametric EQ			
+	678298995	static (Custom)	Wwise Guitar Distortion			
+	678822383	static (Custom)	Wwise Guitar Distortion			
+	697361059	radio (Custom)	Wwise Parametric EQ			
+	701808793	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	736709706	static (Custom)	Wwise Guitar Distortion			
+	811383384	radio (Custom)	Wwise Parametric EQ			
+	815201364	radio (Custom)	Wwise Parametric EQ			
+	827801086	radio (Custom)	Wwise Parametric EQ			
+	828954446	static (Custom)	Wwise Guitar Distortion			
+	846096229	radio (Custom)	Wwise Parametric EQ			
+	853234462	radio (Custom)	Wwise Parametric EQ			
+	861499852	radio (Custom)	Wwise Parametric EQ			
+	862968660	static (Custom)	Wwise Guitar Distortion			
+	869320512	static (Custom)	Wwise Guitar Distortion			
+	900420656	radio (Custom)	Wwise Parametric EQ			
+	903209640	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	903323708	static (Custom)	Wwise Guitar Distortion			
+	917695516	static (Custom)	Wwise Guitar Distortion			
+	927500452	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	936011837	radio (Custom)	Wwise Parametric EQ			
+	961532301	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	966985593	radio (Custom)	Wwise Parametric EQ			
+	981294093	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	995201077	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	997594338	radio (Custom)	Wwise Parametric EQ			
+	1000175536	static (Custom)	Wwise Guitar Distortion			
+	1000468555	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1001893132	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1010931398	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1023638860	radio (Custom)	Wwise Parametric EQ			
+	1027008370	static (Custom)	Wwise Guitar Distortion			
+	1045553604	radio (Custom)	Wwise Parametric EQ			
+	1063075885	static (Custom)	Wwise Guitar Distortion			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	43349137	Amiya_002	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_002_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_002		790204
+	75609067	Amiya_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_001_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_001		269870
+	171267216	Amiya_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_019_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_019		122452
+	240264824	Amiya_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_028_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_028		253606
+	299883925	Amiya_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_027_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_027		251102
+	304033918	Amiya_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_033_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_033		207538
+	362961286	Amiya_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_020_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_020		355064
+	376838713	Amiya_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_025_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_025		241612
+	377614803	Amiya_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_026_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_026		255280
+	429246381	Amiya_003	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_003_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_003		596510
+	481964104	Amiya_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_030_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_030		651246
+	578748271	Amiya_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_036_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_036		95002
+	675313954	Amiya_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_042_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_042		149626
+	688959117	Amiya_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_034_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_034		153970
+	693410982	Amiya_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_024_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_024		98758
+	730597986	Amiya_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_031_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_031		573626
+	771255187	Amiya_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_012_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_012		691848
+	815997873	Amiya_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_032_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_032		427088
+	836771613	Amiya_014	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_014_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_014		1027318
+	850564783	Amiya_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_010_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_010		488840
+	936689392	Amiya_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_023_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_023		84658
+	940060903	Amiya_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_013_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_013		501336
+	945386552	Amiya_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_005_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_005		908380
+	952775108	Amiya_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_022_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_022		206314
+	981530412	Amiya_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_018_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_018		200700
+	1007126161	Amiya_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_017_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_017		162934
+	1017419183	Amiya_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_021_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_021		42016
+	1058434140	Amiya_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Amiya_029_9E69E797.wem		\Actor-Mixer Hierarchy\Amiya\Amiya_029		554222
+

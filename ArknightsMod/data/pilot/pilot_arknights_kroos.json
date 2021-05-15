@@ -1,0 +1,50 @@
+{
+   "Description": {
+      "Id": "pilot_arknights_kroos",
+      "Name": "Kroos",
+      "FirstName": "Azusa",
+      "LastName": "Tadokoro",
+      "Callsign": "Kroos",
+      "Gender": "Female",
+      "factionID": "RhodesIsland",
+      "Age": 27,
+      "Details": "Originally from RIM Billiton like Fang and Beagle, Kroos also received her training from the Columbia Holmegard Garrison. She is calm and constantly smiling as she maintains a gentle demeanor. However, she sometimes breaks her facade, revealing a toxic attitude.",
+      "Icon": "portrait_arknights_kroos"
+   },
+   "BaseGunnery": 2,
+   "BonusGunnery": 0,
+   "BasePiloting": 2,
+   "BonusPiloting": 0,
+   "BaseGuts": 2,
+   "BonusGuts": 0,
+   "BaseTactics": 2,
+   "BonusTactics": 0,
+   "ExperienceUnspent": 10000,
+   "ExperienceSpent": 0,
+   "Injuries": 0,
+   "Health": 3,
+   "LethalInjury": false,
+   "Incapacitated": false,
+   "Morale": 0,
+   "Voice": "Kroos_voicepack",
+   "abilityDefNames": [],
+   "AIPersonality": "Undefined",
+   "PilotTags": {
+      "items": [
+         "BLACKLISTED",
+         "pilot_starter",
+         "pilot_mechwarrior",
+         "pilot_military",
+         "pilot_brave",
+         "pilot_klutz",
+         "pilot_lucky",
+         "pilot_rhodes_island",
+         "pilot_arknights",
+         "pilot_sniper",
+         "name_Kroos"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "PilotCost": 0,
+   "IsRonin": true
+}

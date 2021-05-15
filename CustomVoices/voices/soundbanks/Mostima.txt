@@ -1,0 +1,147 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2287198002	Mostima_Stop_All			\Default Work Unit\Mostima_Stop_All	
+	2819289265	Play_Mostima_CN_042			\Default Work Unit\Play_Mostima_CN_042	
+	2869622020	Play_Mostima_CN_018			\Default Work Unit\Play_Mostima_CN_018	
+	2869622021	Play_Mostima_CN_019			\Default Work Unit\Play_Mostima_CN_019	
+	2869622024	Play_Mostima_CN_014			\Default Work Unit\Play_Mostima_CN_014	
+	2869622027	Play_Mostima_CN_017			\Default Work Unit\Play_Mostima_CN_017	
+	2869622028	Play_Mostima_CN_010			\Default Work Unit\Play_Mostima_CN_010	
+	2869622030	Play_Mostima_CN_012			\Default Work Unit\Play_Mostima_CN_012	
+	2869622031	Play_Mostima_CN_013			\Default Work Unit\Play_Mostima_CN_013	
+	2886399738	Play_Mostima_CN_005			\Default Work Unit\Play_Mostima_CN_005	
+	2886399739	Play_Mostima_CN_004			\Default Work Unit\Play_Mostima_CN_004	
+	2886399741	Play_Mostima_CN_002			\Default Work Unit\Play_Mostima_CN_002	
+	2886399742	Play_Mostima_CN_001			\Default Work Unit\Play_Mostima_CN_001	
+	2903177296	Play_Mostima_CN_032			\Default Work Unit\Play_Mostima_CN_032	
+	2903177297	Play_Mostima_CN_033			\Default Work Unit\Play_Mostima_CN_033	
+	2903177298	Play_Mostima_CN_030			\Default Work Unit\Play_Mostima_CN_030	
+	2903177299	Play_Mostima_CN_031			\Default Work Unit\Play_Mostima_CN_031	
+	2903177300	Play_Mostima_CN_036			\Default Work Unit\Play_Mostima_CN_036	
+	2903177302	Play_Mostima_CN_034			\Default Work Unit\Play_Mostima_CN_034	
+	2919954880	Play_Mostima_CN_025			\Default Work Unit\Play_Mostima_CN_025	
+	2919954881	Play_Mostima_CN_024			\Default Work Unit\Play_Mostima_CN_024	
+	2919954882	Play_Mostima_CN_027			\Default Work Unit\Play_Mostima_CN_027	
+	2919954883	Play_Mostima_CN_026			\Default Work Unit\Play_Mostima_CN_026	
+	2919954884	Play_Mostima_CN_021			\Default Work Unit\Play_Mostima_CN_021	
+	2919954885	Play_Mostima_CN_020			\Default Work Unit\Play_Mostima_CN_020	
+	2919954886	Play_Mostima_CN_023			\Default Work Unit\Play_Mostima_CN_023	
+	2919954887	Play_Mostima_CN_022			\Default Work Unit\Play_Mostima_CN_022	
+	2919954892	Play_Mostima_CN_029			\Default Work Unit\Play_Mostima_CN_029	
+	2919954893	Play_Mostima_CN_028			\Default Work Unit\Play_Mostima_CN_028	
+
+Effect plug-ins	ID	Name	Type				Notes
+	10955188	static (Custom)	Wwise Guitar Distortion			
+	19288956	radio (Custom)	Wwise Parametric EQ			
+	52055932	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	52138597	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	56584885	radio (Custom)	Wwise Parametric EQ			
+	66960282	static (Custom)	Wwise Guitar Distortion			
+	70708919	static (Custom)	Wwise Guitar Distortion			
+	82045322	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	129111030	radio (Custom)	Wwise Parametric EQ			
+	144439134	radio (Custom)	Wwise Parametric EQ			
+	204127520	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	204446233	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	204824250	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	239350122	radio (Custom)	Wwise Parametric EQ			
+	242367701	radio (Custom)	Wwise Parametric EQ			
+	245140580	static (Custom)	Wwise Guitar Distortion			
+	248136070	static (Custom)	Wwise Guitar Distortion			
+	251558076	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	253035934	static (Custom)	Wwise Guitar Distortion			
+	261172945	radio (Custom)	Wwise Parametric EQ			
+	262823520	radio (Custom)	Wwise Parametric EQ			
+	293571412	static (Custom)	Wwise Guitar Distortion			
+	313907665	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	352706008	static (Custom)	Wwise Guitar Distortion			
+	357196710	static (Custom)	Wwise Guitar Distortion			
+	361162068	radio (Custom)	Wwise Parametric EQ			
+	384497563	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	395285904	static (Custom)	Wwise Guitar Distortion			
+	399460390	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	416274132	static (Custom)	Wwise Guitar Distortion			
+	419324995	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	429071093	static (Custom)	Wwise Guitar Distortion			
+	429366495	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	440387507	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	456606244	static (Custom)	Wwise Guitar Distortion			
+	460406563	radio (Custom)	Wwise Parametric EQ			
+	469631800	radio (Custom)	Wwise Parametric EQ			
+	477780578	radio (Custom)	Wwise Parametric EQ			
+	484590626	radio (Custom)	Wwise Parametric EQ			
+	507532598	radio (Custom)	Wwise Parametric EQ			
+	508340399	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	513486797	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	516527449	radio (Custom)	Wwise Parametric EQ			
+	517160671	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	523860565	radio (Custom)	Wwise Parametric EQ			
+	567693284	radio (Custom)	Wwise Parametric EQ			
+	581694525	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	600917426	static (Custom)	Wwise Guitar Distortion			
+	621052333	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	626629641	static (Custom)	Wwise Guitar Distortion			
+	646899188	static (Custom)	Wwise Guitar Distortion			
+	676967700	radio (Custom)	Wwise Parametric EQ			
+	705997702	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	746441934	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	767517941	static (Custom)	Wwise Guitar Distortion			
+	769762896	static (Custom)	Wwise Guitar Distortion			
+	781265885	static (Custom)	Wwise Guitar Distortion			
+	783587177	static (Custom)	Wwise Guitar Distortion			
+	797787571	radio (Custom)	Wwise Parametric EQ			
+	810603162	static (Custom)	Wwise Guitar Distortion			
+	813876727	radio (Custom)	Wwise Parametric EQ			
+	830266143	static (Custom)	Wwise Guitar Distortion			
+	833761287	static (Custom)	Wwise Guitar Distortion			
+	837629085	static (Custom)	Wwise Guitar Distortion			
+	861909289	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	869020937	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	892444804	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	893319533	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	918148173	static (Custom)	Wwise Guitar Distortion			
+	927435336	static (Custom)	Wwise Guitar Distortion			
+	943456127	radio (Custom)	Wwise Parametric EQ			
+	949952123	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	965903514	radio (Custom)	Wwise Parametric EQ			
+	970002885	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	986403847	radio (Custom)	Wwise Parametric EQ			
+	987441078	radio (Custom)	Wwise Parametric EQ			
+	987583934	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	991889806	static (Custom)	Wwise Guitar Distortion			
+	997373635	radio (Custom)	Wwise Parametric EQ			
+	1008320336	radio (Custom)	Wwise Parametric EQ			
+	1023358396	radio (Custom)	Wwise Parametric EQ			
+	1041861124	radio (Custom)	Wwise Parametric EQ			
+	1066335582	static (Custom)	Wwise Guitar Distortion			
+	1071812912	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	68057224	Mostima_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_036		199524
+	118742479	Mostima_CN_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_013_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_013		490758
+	125156534	Mostima_CN_002	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_002_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_002		1336986
+	133635455	Mostima_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_034		54060
+	142478998	Mostima_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_027		475824
+	157264982	Mostima_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_023		141634
+	188005866	Mostima_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_033		154746
+	275622527	Mostima_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_021		55284
+	276532305	Mostima_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_028		220914
+	312462534	Mostima_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_024		159466
+	313797453	Mostima_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_017		117862
+	382433503	Mostima_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_029		402360
+	407587681	Mostima_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_022		103698
+	479765823	Mostima_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_010		380552
+	496676932	Mostima_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_026		148030
+	687312799	Mostima_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_042		250506
+	696643846	Mostima_CN_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_001_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_001		747134
+	701955471	Mostima_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_030		488010
+	748893633	Mostima_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_031		712064
+	767255776	Mostima_CN_004	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_004_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_004		1684980
+	795714678	Mostima_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_020		173350
+	863314275	Mostima_CN_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_005_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_005		711882
+	946098004	Mostima_CN_014	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_014_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_014		965136
+	955584162	Mostima_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_018		430596
+	962336471	Mostima_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_025		251498
+	1017624784	Mostima_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_019		312414
+	1022464399	Mostima_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_012		471106
+	1037469626	Mostima_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Mostima_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Mostima\Mostima_CN_032		478724
+

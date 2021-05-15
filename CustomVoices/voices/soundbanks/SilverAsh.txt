@@ -1,0 +1,142 @@
+Event	ID	Name			Wwise Object Path	Notes
+	324840717	SilverAsh_Stop_All			\Default Work Unit\SilverAsh_Stop_All	
+	3184592882	Play_SilverAsh_CN_042			\Default Work Unit\Play_SilverAsh_CN_042	
+	3251703348	Play_SilverAsh_CN_008			\Default Work Unit\Play_SilverAsh_CN_008	
+	3251703353	Play_SilverAsh_CN_005			\Default Work Unit\Play_SilverAsh_CN_005	
+	3251703357	Play_SilverAsh_CN_001			\Default Work Unit\Play_SilverAsh_CN_001	
+	3268480934	Play_SilverAsh_CN_019			\Default Work Unit\Play_SilverAsh_CN_019	
+	3268480935	Play_SilverAsh_CN_018			\Default Work Unit\Play_SilverAsh_CN_018	
+	3268480936	Play_SilverAsh_CN_017			\Default Work Unit\Play_SilverAsh_CN_017	
+	3268480940	Play_SilverAsh_CN_013			\Default Work Unit\Play_SilverAsh_CN_013	
+	3268480941	Play_SilverAsh_CN_012			\Default Work Unit\Play_SilverAsh_CN_012	
+	3268480942	Play_SilverAsh_CN_011			\Default Work Unit\Play_SilverAsh_CN_011	
+	3268480943	Play_SilverAsh_CN_010			\Default Work Unit\Play_SilverAsh_CN_010	
+	3285258496	Play_SilverAsh_CN_022			\Default Work Unit\Play_SilverAsh_CN_022	
+	3285258497	Play_SilverAsh_CN_023			\Default Work Unit\Play_SilverAsh_CN_023	
+	3285258498	Play_SilverAsh_CN_020			\Default Work Unit\Play_SilverAsh_CN_020	
+	3285258499	Play_SilverAsh_CN_021			\Default Work Unit\Play_SilverAsh_CN_021	
+	3285258500	Play_SilverAsh_CN_026			\Default Work Unit\Play_SilverAsh_CN_026	
+	3285258501	Play_SilverAsh_CN_027			\Default Work Unit\Play_SilverAsh_CN_027	
+	3285258502	Play_SilverAsh_CN_024			\Default Work Unit\Play_SilverAsh_CN_024	
+	3285258503	Play_SilverAsh_CN_025			\Default Work Unit\Play_SilverAsh_CN_025	
+	3285258506	Play_SilverAsh_CN_028			\Default Work Unit\Play_SilverAsh_CN_028	
+	3285258507	Play_SilverAsh_CN_029			\Default Work Unit\Play_SilverAsh_CN_029	
+	3302036209	Play_SilverAsh_CN_034			\Default Work Unit\Play_SilverAsh_CN_034	
+	3302036211	Play_SilverAsh_CN_036			\Default Work Unit\Play_SilverAsh_CN_036	
+	3302036212	Play_SilverAsh_CN_031			\Default Work Unit\Play_SilverAsh_CN_031	
+	3302036213	Play_SilverAsh_CN_030			\Default Work Unit\Play_SilverAsh_CN_030	
+	3302036214	Play_SilverAsh_CN_033			\Default Work Unit\Play_SilverAsh_CN_033	
+	3302036215	Play_SilverAsh_CN_032			\Default Work Unit\Play_SilverAsh_CN_032	
+
+Effect plug-ins	ID	Name	Type				Notes
+	21694813	radio (Custom)	Wwise Parametric EQ			
+	25670865	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	31136283	static (Custom)	Wwise Guitar Distortion			
+	39391042	static (Custom)	Wwise Guitar Distortion			
+	78314579	radio (Custom)	Wwise Parametric EQ			
+	106957715	radio (Custom)	Wwise Parametric EQ			
+	122914483	static (Custom)	Wwise Guitar Distortion			
+	129665813	radio (Custom)	Wwise Parametric EQ			
+	135460712	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	154424762	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	158448761	radio (Custom)	Wwise Parametric EQ			
+	193524735	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	199776780	static (Custom)	Wwise Guitar Distortion			
+	207252773	static (Custom)	Wwise Guitar Distortion			
+	208228985	radio (Custom)	Wwise Parametric EQ			
+	210850356	radio (Custom)	Wwise Parametric EQ			
+	246688982	static (Custom)	Wwise Guitar Distortion			
+	247997319	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	260290209	static (Custom)	Wwise Guitar Distortion			
+	265949918	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	287292871	static (Custom)	Wwise Guitar Distortion			
+	290407697	static (Custom)	Wwise Guitar Distortion			
+	293915326	radio (Custom)	Wwise Parametric EQ			
+	307493971	radio (Custom)	Wwise Parametric EQ			
+	310360854	static (Custom)	Wwise Guitar Distortion			
+	316845673	radio (Custom)	Wwise Parametric EQ			
+	327399160	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	372195925	static (Custom)	Wwise Guitar Distortion			
+	376705492	static (Custom)	Wwise Guitar Distortion			
+	377142926	radio (Custom)	Wwise Parametric EQ			
+	384810706	static (Custom)	Wwise Guitar Distortion			
+	405714590	radio (Custom)	Wwise Parametric EQ			
+	410920279	radio (Custom)	Wwise Parametric EQ			
+	420614806	radio (Custom)	Wwise Parametric EQ			
+	421017038	static (Custom)	Wwise Guitar Distortion			
+	426011523	static (Custom)	Wwise Guitar Distortion			
+	467502746	radio (Custom)	Wwise Parametric EQ			
+	472154631	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	502364259	radio (Custom)	Wwise Parametric EQ			
+	508936695	static (Custom)	Wwise Guitar Distortion			
+	549531377	radio (Custom)	Wwise Parametric EQ			
+	580365204	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	586137323	radio (Custom)	Wwise Parametric EQ			
+	588500597	static (Custom)	Wwise Guitar Distortion			
+	622295524	static (Custom)	Wwise Guitar Distortion			
+	663584241	static (Custom)	Wwise Guitar Distortion			
+	668529628	radio (Custom)	Wwise Parametric EQ			
+	676009380	static (Custom)	Wwise Guitar Distortion			
+	679338832	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	689810063	radio (Custom)	Wwise Parametric EQ			
+	712876197	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	720025705	radio (Custom)	Wwise Parametric EQ			
+	746530702	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	770847024	static (Custom)	Wwise Guitar Distortion			
+	804197595	static (Custom)	Wwise Guitar Distortion			
+	826795384	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	827085383	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	840302957	radio (Custom)	Wwise Parametric EQ			
+	850293163	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	852881456	radio (Custom)	Wwise Parametric EQ			
+	884948922	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	895733313	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	920823916	static (Custom)	Wwise Guitar Distortion			
+	923487281	radio (Custom)	Wwise Parametric EQ			
+	923600742	radio (Custom)	Wwise Parametric EQ			
+	925245514	static (Custom)	Wwise Guitar Distortion			
+	939821939	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	948336802	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	951615477	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	953177638	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	954153068	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	989883242	radio (Custom)	Wwise Parametric EQ			
+	991889123	static (Custom)	Wwise Guitar Distortion			
+	997029619	static (Custom)	Wwise Guitar Distortion			
+	1010704613	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1011365177	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1013002047	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1024881333	radio (Custom)	Wwise Parametric EQ			
+	1036397129	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1044780789	static (Custom)	Wwise Guitar Distortion			
+	1062187270	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	20895566	SilverAsh_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_024		59916
+	148798895	SilverAsh_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_031		221540
+	150075471	SilverAsh_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_029		533210
+	172486531	SilverAsh_CN_011	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_011_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_011		821072
+	188083381	SilverAsh_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_032		256270
+	295909963	SilverAsh_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_034		50890
+	296098814	SilverAsh_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_030		571278
+	354997562	SilverAsh_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_023		92956
+	406843178	SilverAsh_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_020		380462
+	462641691	SilverAsh_CN_005	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_005_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_005		1333378
+	505550846	SilverAsh_CN_042	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_042_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_042		264034
+	513915504	SilverAsh_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_012		484288
+	540762596	SilverAsh_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_026		356298
+	560674767	SilverAsh_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_033		293196
+	571110037	SilverAsh_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_028		441668
+	578486177	SilverAsh_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_010		396616
+	635413978	SilverAsh_CN_013	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_013_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_013		882378
+	636327838	SilverAsh_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_036		638598
+	637137157	SilverAsh_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_022		72970
+	736154245	SilverAsh_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_021		146126
+	736329860	SilverAsh_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_027		524396
+	750279285	SilverAsh_CN_008	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_008_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_008		1085774
+	766367441	SilverAsh_CN_001	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_001_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_001		360054
+	908998012	SilverAsh_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_025		496720
+	929269112	SilverAsh_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_018		660766
+	947772872	SilverAsh_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_017		591288
+	956732032	SilverAsh_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\SilverAsh_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\SilverAsh\SilverAsh_CN_019		315036
+
