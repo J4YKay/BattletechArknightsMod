@@ -16,7 +16,7 @@
 * KMission Custom Voice Tutorial https://www.youtube.com/watch?v=Q89cneezcAo
 * Wwise for creating soundbanks https://www.audiokinetic.com/download/
 * VSCode for easy json editing https://code.visualstudio.com/
-    * If you're reading this in VSCode press ctrl + shift + v for the MarkDown preview (formatted text)
+<!-- If you're reading this in VSCode press ctrl + shift + v for the MarkDown preview (formatted text) -->
 * MusicBee for audio converting https://getmusicbee.com/
 
 ### Mod Dependencies
