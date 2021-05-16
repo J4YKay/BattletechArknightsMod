@@ -73,8 +73,6 @@ Optional additions
 * DisablePilots
     * Removes ronin tags from default pilots and sets ronin spawn chance in story to 1, forcing only custom pilots with the ronin tag to appear in hiring
     * If you still want the backer/ronin pilots in the base game, delete the 'pilot' folder from the mod to only force ronin pilots to spawn (should get rid of the 3d generated pilots, if you don't see the change try jumping to another system)
-* DisableTutorialMessages
-    * Removes the flags to show the popups in the '3 years later' mission after the prologue. Those got really annoying when debugging issues with the mod
 #
 ## Adding Custom Voices
 ### Step by step text version for KMissions' custom voice tutorial
