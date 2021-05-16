@@ -1,0 +1,29 @@
+{
+  "name": "Sesa_soundbank",
+  "filename": "Sesa.bnk",
+  "type": "Voice",
+  "events": {
+    "Play_Sesa_CN_010": 4046291424,
+    "Play_Sesa_CN_012": 4046291426,
+    "Play_Sesa_CN_017": 4046291431,
+    "Play_Sesa_CN_018": 4046291432,
+    "Play_Sesa_CN_019": 4046291433,
+    "Play_Sesa_CN_020": 4096624313,
+    "Play_Sesa_CN_021": 4096624312,
+    "Play_Sesa_CN_022": 4096624315,
+    "Play_Sesa_CN_023": 4096624314,
+    "Play_Sesa_CN_024": 4096624317,
+    "Play_Sesa_CN_025": 4096624316,
+    "Play_Sesa_CN_026": 4096624319,
+    "Play_Sesa_CN_027": 4096624318,
+    "Play_Sesa_CN_028": 4096624305,
+    "Play_Sesa_CN_029": 4096624304,
+    "Play_Sesa_CN_030": 4079846598,
+    "Play_Sesa_CN_031": 4079846599,
+    "Play_Sesa_CN_032": 4079846596,
+    "Play_Sesa_CN_033": 4079846597,
+    "Play_Sesa_CN_034": 4079846594,
+    "Play_Sesa_CN_036": 4079846592,
+    "Sesa_Stop_All": 222215504
+  }
+}

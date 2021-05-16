@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1154120324	Spot_Stop_All			\Default Work Unit\Spot_Stop_All	
+	1662770884	Play_Spot_CN_018			\Default Work Unit\Play_Spot_CN_018	
+	1662770885	Play_Spot_CN_019			\Default Work Unit\Play_Spot_CN_019	
+	1662770891	Play_Spot_CN_017			\Default Work Unit\Play_Spot_CN_017	
+	1662770892	Play_Spot_CN_010			\Default Work Unit\Play_Spot_CN_010	
+	1662770894	Play_Spot_CN_012			\Default Work Unit\Play_Spot_CN_012	
+	1696326160	Play_Spot_CN_032			\Default Work Unit\Play_Spot_CN_032	
+	1696326161	Play_Spot_CN_033			\Default Work Unit\Play_Spot_CN_033	
+	1696326162	Play_Spot_CN_030			\Default Work Unit\Play_Spot_CN_030	
+	1696326163	Play_Spot_CN_031			\Default Work Unit\Play_Spot_CN_031	
+	1696326164	Play_Spot_CN_036			\Default Work Unit\Play_Spot_CN_036	
+	1696326166	Play_Spot_CN_034			\Default Work Unit\Play_Spot_CN_034	
+	1713103744	Play_Spot_CN_025			\Default Work Unit\Play_Spot_CN_025	
+	1713103745	Play_Spot_CN_024			\Default Work Unit\Play_Spot_CN_024	
+	1713103746	Play_Spot_CN_027			\Default Work Unit\Play_Spot_CN_027	
+	1713103747	Play_Spot_CN_026			\Default Work Unit\Play_Spot_CN_026	
+	1713103748	Play_Spot_CN_021			\Default Work Unit\Play_Spot_CN_021	
+	1713103749	Play_Spot_CN_020			\Default Work Unit\Play_Spot_CN_020	
+	1713103750	Play_Spot_CN_023			\Default Work Unit\Play_Spot_CN_023	
+	1713103751	Play_Spot_CN_022			\Default Work Unit\Play_Spot_CN_022	
+	1713103756	Play_Spot_CN_029			\Default Work Unit\Play_Spot_CN_029	
+	1713103757	Play_Spot_CN_028			\Default Work Unit\Play_Spot_CN_028	
+
+Effect plug-ins	ID	Name	Type				Notes
+	35168412	radio (Custom)	Wwise Parametric EQ			
+	103588943	static (Custom)	Wwise Guitar Distortion			
+	108810933	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	136150352	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	136792159	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	152357036	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	170066008	static (Custom)	Wwise Guitar Distortion			
+	172175871	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	172455813	radio (Custom)	Wwise Parametric EQ			
+	184556587	static (Custom)	Wwise Guitar Distortion			
+	192413925	radio (Custom)	Wwise Parametric EQ			
+	202975247	static (Custom)	Wwise Guitar Distortion			
+	214604345	radio (Custom)	Wwise Parametric EQ			
+	216014380	static (Custom)	Wwise Guitar Distortion			
+	227980260	radio (Custom)	Wwise Parametric EQ			
+	244955411	radio (Custom)	Wwise Parametric EQ			
+	257878584	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	274578587	radio (Custom)	Wwise Parametric EQ			
+	285197089	static (Custom)	Wwise Guitar Distortion			
+	302625523	static (Custom)	Wwise Guitar Distortion			
+	339778504	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	351940558	radio (Custom)	Wwise Parametric EQ			
+	357294369	radio (Custom)	Wwise Parametric EQ			
+	361242851	static (Custom)	Wwise Guitar Distortion			
+	383688750	static (Custom)	Wwise Guitar Distortion			
+	417829586	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	424247378	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	425108803	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	438206768	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	449866999	static (Custom)	Wwise Guitar Distortion			
+	482919481	static (Custom)	Wwise Guitar Distortion			
+	496798654	static (Custom)	Wwise Guitar Distortion			
+	506613518	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	509795282	static (Custom)	Wwise Guitar Distortion			
+	595253161	static (Custom)	Wwise Guitar Distortion			
+	607305750	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	616847974	static (Custom)	Wwise Guitar Distortion			
+	634013843	radio (Custom)	Wwise Parametric EQ			
+	641520485	radio (Custom)	Wwise Parametric EQ			
+	642102080	static (Custom)	Wwise Guitar Distortion			
+	652348146	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	675952446	radio (Custom)	Wwise Parametric EQ			
+	682063987	radio (Custom)	Wwise Parametric EQ			
+	690502394	static (Custom)	Wwise Guitar Distortion			
+	693440704	static (Custom)	Wwise Guitar Distortion			
+	700990226	radio (Custom)	Wwise Parametric EQ			
+	716272629	radio (Custom)	Wwise Parametric EQ			
+	743330784	radio (Custom)	Wwise Parametric EQ			
+	763697465	radio (Custom)	Wwise Parametric EQ			
+	777527870	static (Custom)	Wwise Guitar Distortion			
+	805404042	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	835787090	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	837528372	radio (Custom)	Wwise Parametric EQ			
+	839690648	static (Custom)	Wwise Guitar Distortion			
+	847722729	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	850175804	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	874868594	radio (Custom)	Wwise Parametric EQ			
+	877232199	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	916537996	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	926107506	radio (Custom)	Wwise Parametric EQ			
+	971450549	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	989869696	static (Custom)	Wwise Guitar Distortion			
+	1038163342	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	57664699	Spot_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_027		111900
+	189190762	Spot_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_012		377018
+	199398280	Spot_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_032		294876
+	227686571	Spot_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_022		145466
+	231543081	Spot_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_029		283068
+	236784623	Spot_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_033		84028
+	270513989	Spot_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_034		55354
+	444828546	Spot_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_031		230460
+	476717118	Spot_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_017		350122
+	535201842	Spot_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_025		89788
+	658713863	Spot_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_024		145596
+	678935765	Spot_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_020		433642
+	686925421	Spot_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_030		385592
+	692910054	Spot_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_021		86074
+	768914918	Spot_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_036		213308
+	785723567	Spot_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_026		152250
+	897200295	Spot_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_010		157754
+	935370823	Spot_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_018		168506
+	939680338	Spot_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_028		205372
+	986815536	Spot_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_023		98748
+	1009601910	Spot_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Spot_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Spot\Spot_CN_019		88122
+

@@ -1,0 +1,29 @@
+{
+  "name": "Spot_soundbank",
+  "filename": "Spot.bnk",
+  "type": "Voice",
+  "events": {
+    "Play_Spot_CN_010": 1662770892,
+    "Play_Spot_CN_012": 1662770894,
+    "Play_Spot_CN_017": 1662770891,
+    "Play_Spot_CN_018": 1662770884,
+    "Play_Spot_CN_019": 1662770885,
+    "Play_Spot_CN_020": 1713103749,
+    "Play_Spot_CN_021": 1713103748,
+    "Play_Spot_CN_022": 1713103751,
+    "Play_Spot_CN_023": 1713103750,
+    "Play_Spot_CN_024": 1713103745,
+    "Play_Spot_CN_025": 1713103744,
+    "Play_Spot_CN_026": 1713103747,
+    "Play_Spot_CN_027": 1713103746,
+    "Play_Spot_CN_028": 1713103757,
+    "Play_Spot_CN_029": 1713103756,
+    "Play_Spot_CN_030": 1696326162,
+    "Play_Spot_CN_031": 1696326163,
+    "Play_Spot_CN_032": 1696326160,
+    "Play_Spot_CN_033": 1696326161,
+    "Play_Spot_CN_034": 1696326166,
+    "Play_Spot_CN_036": 1696326164,
+    "Spot_Stop_All": 1154120324
+  }
+}

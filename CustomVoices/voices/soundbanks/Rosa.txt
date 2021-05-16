@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3425774368	Play_Rosa_CN_017			\Default Work Unit\Play_Rosa_CN_017	
+	3425774373	Play_Rosa_CN_012			\Default Work Unit\Play_Rosa_CN_012	
+	3425774375	Play_Rosa_CN_010			\Default Work Unit\Play_Rosa_CN_010	
+	3425774382	Play_Rosa_CN_019			\Default Work Unit\Play_Rosa_CN_019	
+	3425774383	Play_Rosa_CN_018			\Default Work Unit\Play_Rosa_CN_018	
+	3442551954	Play_Rosa_CN_028			\Default Work Unit\Play_Rosa_CN_028	
+	3442551955	Play_Rosa_CN_029			\Default Work Unit\Play_Rosa_CN_029	
+	3442551960	Play_Rosa_CN_022			\Default Work Unit\Play_Rosa_CN_022	
+	3442551961	Play_Rosa_CN_023			\Default Work Unit\Play_Rosa_CN_023	
+	3442551962	Play_Rosa_CN_020			\Default Work Unit\Play_Rosa_CN_020	
+	3442551963	Play_Rosa_CN_021			\Default Work Unit\Play_Rosa_CN_021	
+	3442551964	Play_Rosa_CN_026			\Default Work Unit\Play_Rosa_CN_026	
+	3442551965	Play_Rosa_CN_027			\Default Work Unit\Play_Rosa_CN_027	
+	3442551966	Play_Rosa_CN_024			\Default Work Unit\Play_Rosa_CN_024	
+	3442551967	Play_Rosa_CN_025			\Default Work Unit\Play_Rosa_CN_025	
+	3459329545	Play_Rosa_CN_034			\Default Work Unit\Play_Rosa_CN_034	
+	3459329547	Play_Rosa_CN_036			\Default Work Unit\Play_Rosa_CN_036	
+	3459329548	Play_Rosa_CN_031			\Default Work Unit\Play_Rosa_CN_031	
+	3459329549	Play_Rosa_CN_030			\Default Work Unit\Play_Rosa_CN_030	
+	3459329550	Play_Rosa_CN_033			\Default Work Unit\Play_Rosa_CN_033	
+	3459329551	Play_Rosa_CN_032			\Default Work Unit\Play_Rosa_CN_032	
+	3816348647	Rosa_Stop_All			\Default Work Unit\Rosa_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1432842	static (Custom)	Wwise Guitar Distortion			
+	6303420	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	15687020	radio (Custom)	Wwise Parametric EQ			
+	53080511	static (Custom)	Wwise Guitar Distortion			
+	59897335	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	82687265	radio (Custom)	Wwise Parametric EQ			
+	147560176	radio (Custom)	Wwise Parametric EQ			
+	152786863	static (Custom)	Wwise Guitar Distortion			
+	181339703	radio (Custom)	Wwise Parametric EQ			
+	191331532	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	215777262	static (Custom)	Wwise Guitar Distortion			
+	230404131	static (Custom)	Wwise Guitar Distortion			
+	242068306	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	256119809	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	265130345	radio (Custom)	Wwise Parametric EQ			
+	267395328	radio (Custom)	Wwise Parametric EQ			
+	334994442	static (Custom)	Wwise Guitar Distortion			
+	340171445	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	363256937	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	402436762	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	439577164	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	440274024	static (Custom)	Wwise Guitar Distortion			
+	453603374	radio (Custom)	Wwise Parametric EQ			
+	466187566	static (Custom)	Wwise Guitar Distortion			
+	481590136	radio (Custom)	Wwise Parametric EQ			
+	486862299	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	490555754	static (Custom)	Wwise Guitar Distortion			
+	497832392	static (Custom)	Wwise Guitar Distortion			
+	524952108	static (Custom)	Wwise Guitar Distortion			
+	564174962	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	579648533	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	582121542	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	586194526	static (Custom)	Wwise Guitar Distortion			
+	598390178	radio (Custom)	Wwise Parametric EQ			
+	615936255	radio (Custom)	Wwise Parametric EQ			
+	625774478	radio (Custom)	Wwise Parametric EQ			
+	660937661	static (Custom)	Wwise Guitar Distortion			
+	679568160	radio (Custom)	Wwise Parametric EQ			
+	684106780	static (Custom)	Wwise Guitar Distortion			
+	711795171	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	745567508	radio (Custom)	Wwise Parametric EQ			
+	769442141	static (Custom)	Wwise Guitar Distortion			
+	786849403	radio (Custom)	Wwise Parametric EQ			
+	787141677	static (Custom)	Wwise Guitar Distortion			
+	802780578	static (Custom)	Wwise Guitar Distortion			
+	803270998	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	817240041	radio (Custom)	Wwise Parametric EQ			
+	825758489	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	848208343	radio (Custom)	Wwise Parametric EQ			
+	888879412	radio (Custom)	Wwise Parametric EQ			
+	890211823	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	905869136	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	911044464	radio (Custom)	Wwise Parametric EQ			
+	920828776	radio (Custom)	Wwise Parametric EQ			
+	934361116	static (Custom)	Wwise Guitar Distortion			
+	936402547	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	938351877	static (Custom)	Wwise Guitar Distortion			
+	954401801	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	963465267	radio (Custom)	Wwise Parametric EQ			
+	1010509320	static (Custom)	Wwise Guitar Distortion			
+	1039205248	radio (Custom)	Wwise Parametric EQ			
+	1045363037	static (Custom)	Wwise Guitar Distortion			
+	1054198444	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	72654717	Rosa_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_018		162302
+	117428684	Rosa_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_032		287696
+	218445296	Rosa_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_020		303932
+	305232962	Rosa_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_034		65024
+	384315756	Rosa_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_024		254828
+	406012578	Rosa_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_029		872974
+	455747734	Rosa_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_025		304660
+	466189860	Rosa_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_010		525614
+	603243690	Rosa_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_030		402326
+	611180388	Rosa_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_033		257400
+	716782065	Rosa_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_019		203620
+	733899143	Rosa_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_026		275622
+	761162820	Rosa_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_028		243084
+	780561897	Rosa_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_017		179990
+	843982863	Rosa_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_022		156890
+	856593554	Rosa_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_027		487298
+	896379080	Rosa_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_021		72640
+	901655340	Rosa_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_012		292224
+	908351559	Rosa_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_031		499578
+	965848587	Rosa_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_036		211018
+	1009579251	Rosa_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosa_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Rosa\Rosa_CN_023		302062
+

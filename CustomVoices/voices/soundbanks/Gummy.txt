@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	657138660	Play_Gummy_CN_028			\Default Work Unit\Play_Gummy_CN_028	
+	657138661	Play_Gummy_CN_029			\Default Work Unit\Play_Gummy_CN_029	
+	657138664	Play_Gummy_CN_024			\Default Work Unit\Play_Gummy_CN_024	
+	657138665	Play_Gummy_CN_025			\Default Work Unit\Play_Gummy_CN_025	
+	657138666	Play_Gummy_CN_026			\Default Work Unit\Play_Gummy_CN_026	
+	657138667	Play_Gummy_CN_027			\Default Work Unit\Play_Gummy_CN_027	
+	657138668	Play_Gummy_CN_020			\Default Work Unit\Play_Gummy_CN_020	
+	657138669	Play_Gummy_CN_021			\Default Work Unit\Play_Gummy_CN_021	
+	657138670	Play_Gummy_CN_022			\Default Work Unit\Play_Gummy_CN_022	
+	657138671	Play_Gummy_CN_023			\Default Work Unit\Play_Gummy_CN_023	
+	673916249	Play_Gummy_CN_036			\Default Work Unit\Play_Gummy_CN_036	
+	673916251	Play_Gummy_CN_034			\Default Work Unit\Play_Gummy_CN_034	
+	673916252	Play_Gummy_CN_033			\Default Work Unit\Play_Gummy_CN_033	
+	673916253	Play_Gummy_CN_032			\Default Work Unit\Play_Gummy_CN_032	
+	673916254	Play_Gummy_CN_031			\Default Work Unit\Play_Gummy_CN_031	
+	673916255	Play_Gummy_CN_030			\Default Work Unit\Play_Gummy_CN_030	
+	707471522	Play_Gummy_CN_017			\Default Work Unit\Play_Gummy_CN_017	
+	707471525	Play_Gummy_CN_010			\Default Work Unit\Play_Gummy_CN_010	
+	707471527	Play_Gummy_CN_012			\Default Work Unit\Play_Gummy_CN_012	
+	707471532	Play_Gummy_CN_019			\Default Work Unit\Play_Gummy_CN_019	
+	707471533	Play_Gummy_CN_018			\Default Work Unit\Play_Gummy_CN_018	
+	1575135319	Gummy_Stop_All			\Default Work Unit\Gummy_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	30338745	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	55239477	static (Custom)	Wwise Guitar Distortion			
+	80026838	radio (Custom)	Wwise Parametric EQ			
+	83932487	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	85649108	static (Custom)	Wwise Guitar Distortion			
+	133002162	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	161645719	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	171927695	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	219099630	radio (Custom)	Wwise Parametric EQ			
+	220951680	radio (Custom)	Wwise Parametric EQ			
+	251331273	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	252502340	static (Custom)	Wwise Guitar Distortion			
+	275799086	radio (Custom)	Wwise Parametric EQ			
+	281493294	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	303600854	radio (Custom)	Wwise Parametric EQ			
+	310302986	radio (Custom)	Wwise Parametric EQ			
+	322373194	radio (Custom)	Wwise Parametric EQ			
+	323047933	static (Custom)	Wwise Guitar Distortion			
+	335193913	radio (Custom)	Wwise Parametric EQ			
+	340523675	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	342407429	radio (Custom)	Wwise Parametric EQ			
+	348664957	static (Custom)	Wwise Guitar Distortion			
+	358974483	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	375809954	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	376599265	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	376803051	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	403871325	static (Custom)	Wwise Guitar Distortion			
+	425532554	static (Custom)	Wwise Guitar Distortion			
+	434317015	static (Custom)	Wwise Guitar Distortion			
+	437800815	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	455635176	static (Custom)	Wwise Guitar Distortion			
+	487024754	radio (Custom)	Wwise Parametric EQ			
+	491421390	radio (Custom)	Wwise Parametric EQ			
+	509420262	radio (Custom)	Wwise Parametric EQ			
+	525033757	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	530143246	static (Custom)	Wwise Guitar Distortion			
+	530170678	radio (Custom)	Wwise Parametric EQ			
+	531461626	radio (Custom)	Wwise Parametric EQ			
+	544368981	static (Custom)	Wwise Guitar Distortion			
+	578903937	static (Custom)	Wwise Guitar Distortion			
+	582719156	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	681130828	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	694102633	static (Custom)	Wwise Guitar Distortion			
+	727334593	radio (Custom)	Wwise Parametric EQ			
+	728687768	radio (Custom)	Wwise Parametric EQ			
+	741219007	radio (Custom)	Wwise Parametric EQ			
+	756295587	radio (Custom)	Wwise Parametric EQ			
+	757953983	static (Custom)	Wwise Guitar Distortion			
+	767623128	static (Custom)	Wwise Guitar Distortion			
+	771649721	static (Custom)	Wwise Guitar Distortion			
+	788984622	static (Custom)	Wwise Guitar Distortion			
+	818472465	static (Custom)	Wwise Guitar Distortion			
+	833222957	radio (Custom)	Wwise Parametric EQ			
+	882934167	static (Custom)	Wwise Guitar Distortion			
+	896143022	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	920346662	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	925184310	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	949434878	static (Custom)	Wwise Guitar Distortion			
+	971673337	radio (Custom)	Wwise Parametric EQ			
+	974599170	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	983517036	static (Custom)	Wwise Guitar Distortion			
+	1016502713	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1058598862	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	100349317	Gummy_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_018		234730
+	158826787	Gummy_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_021		119414
+	222322747	Gummy_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_010		731262
+	284747449	Gummy_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_031		286224
+	324222369	Gummy_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_019		269482
+	331252023	Gummy_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_026		153626
+	379531583	Gummy_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_028		126000
+	387027065	Gummy_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_022		218734
+	477072764	Gummy_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_027		156046
+	532047565	Gummy_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_033		437656
+	537286603	Gummy_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_017		183832
+	563362044	Gummy_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_036		587204
+	638888299	Gummy_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_032		785674
+	661138367	Gummy_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_012		452618
+	681792206	Gummy_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_029		712154
+	756908846	Gummy_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_025		175200
+	806761851	Gummy_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_030		752486
+	809429339	Gummy_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_024		138372
+	809968229	Gummy_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_023		104220
+	968016302	Gummy_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_034		145042
+	1063497714	Gummy_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Gummy_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Gummy\Gummy_CN_020		168530
+

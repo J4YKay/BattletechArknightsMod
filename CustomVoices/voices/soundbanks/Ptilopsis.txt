@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3122303649	Ptilopsis_Stop_All			\Default Work Unit\Ptilopsis_Stop_All	
+	3653736065	Play_Ptilopsis_CN_012			\Default Work Unit\Play_Ptilopsis_CN_012	
+	3653736067	Play_Ptilopsis_CN_010			\Default Work Unit\Play_Ptilopsis_CN_010	
+	3653736068	Play_Ptilopsis_CN_017			\Default Work Unit\Play_Ptilopsis_CN_017	
+	3653736074	Play_Ptilopsis_CN_019			\Default Work Unit\Play_Ptilopsis_CN_019	
+	3653736075	Play_Ptilopsis_CN_018			\Default Work Unit\Play_Ptilopsis_CN_018	
+	3670513776	Play_Ptilopsis_CN_026			\Default Work Unit\Play_Ptilopsis_CN_026	
+	3670513777	Play_Ptilopsis_CN_027			\Default Work Unit\Play_Ptilopsis_CN_027	
+	3670513778	Play_Ptilopsis_CN_024			\Default Work Unit\Play_Ptilopsis_CN_024	
+	3670513779	Play_Ptilopsis_CN_025			\Default Work Unit\Play_Ptilopsis_CN_025	
+	3670513780	Play_Ptilopsis_CN_022			\Default Work Unit\Play_Ptilopsis_CN_022	
+	3670513781	Play_Ptilopsis_CN_023			\Default Work Unit\Play_Ptilopsis_CN_023	
+	3670513782	Play_Ptilopsis_CN_020			\Default Work Unit\Play_Ptilopsis_CN_020	
+	3670513783	Play_Ptilopsis_CN_021			\Default Work Unit\Play_Ptilopsis_CN_021	
+	3670513790	Play_Ptilopsis_CN_028			\Default Work Unit\Play_Ptilopsis_CN_028	
+	3670513791	Play_Ptilopsis_CN_029			\Default Work Unit\Play_Ptilopsis_CN_029	
+	3687291368	Play_Ptilopsis_CN_031			\Default Work Unit\Play_Ptilopsis_CN_031	
+	3687291369	Play_Ptilopsis_CN_030			\Default Work Unit\Play_Ptilopsis_CN_030	
+	3687291370	Play_Ptilopsis_CN_033			\Default Work Unit\Play_Ptilopsis_CN_033	
+	3687291371	Play_Ptilopsis_CN_032			\Default Work Unit\Play_Ptilopsis_CN_032	
+	3687291373	Play_Ptilopsis_CN_034			\Default Work Unit\Play_Ptilopsis_CN_034	
+	3687291375	Play_Ptilopsis_CN_036			\Default Work Unit\Play_Ptilopsis_CN_036	
+
+Effect plug-ins	ID	Name	Type				Notes
+	19659930	static (Custom)	Wwise Guitar Distortion			
+	24744075	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	34483590	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	63653030	radio (Custom)	Wwise Parametric EQ			
+	70263367	radio (Custom)	Wwise Parametric EQ			
+	120041051	radio (Custom)	Wwise Parametric EQ			
+	120268324	static (Custom)	Wwise Guitar Distortion			
+	131915442	static (Custom)	Wwise Guitar Distortion			
+	159948651	static (Custom)	Wwise Guitar Distortion			
+	171687118	radio (Custom)	Wwise Parametric EQ			
+	187622873	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	195348914	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	208025320	static (Custom)	Wwise Guitar Distortion			
+	231809802	radio (Custom)	Wwise Parametric EQ			
+	232633707	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	234500378	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	238326024	static (Custom)	Wwise Guitar Distortion			
+	253112875	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	298079952	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	334275518	static (Custom)	Wwise Guitar Distortion			
+	336043735	static (Custom)	Wwise Guitar Distortion			
+	339927987	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	366765544	radio (Custom)	Wwise Parametric EQ			
+	374303361	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	421530257	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	444453398	radio (Custom)	Wwise Parametric EQ			
+	455041459	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	480462160	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	515534201	static (Custom)	Wwise Guitar Distortion			
+	537430224	radio (Custom)	Wwise Parametric EQ			
+	542539357	radio (Custom)	Wwise Parametric EQ			
+	543193384	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	551163700	static (Custom)	Wwise Guitar Distortion			
+	572000039	radio (Custom)	Wwise Parametric EQ			
+	596174350	static (Custom)	Wwise Guitar Distortion			
+	603271847	static (Custom)	Wwise Guitar Distortion			
+	646477471	radio (Custom)	Wwise Parametric EQ			
+	651497596	static (Custom)	Wwise Guitar Distortion			
+	655147183	static (Custom)	Wwise Guitar Distortion			
+	694607888	radio (Custom)	Wwise Parametric EQ			
+	694843475	static (Custom)	Wwise Guitar Distortion			
+	714515147	radio (Custom)	Wwise Parametric EQ			
+	728442912	radio (Custom)	Wwise Parametric EQ			
+	745934577	radio (Custom)	Wwise Parametric EQ			
+	746266250	static (Custom)	Wwise Guitar Distortion			
+	749322517	radio (Custom)	Wwise Parametric EQ			
+	791785875	radio (Custom)	Wwise Parametric EQ			
+	801137774	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	817307134	radio (Custom)	Wwise Parametric EQ			
+	894580841	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	895477203	radio (Custom)	Wwise Parametric EQ			
+	899802541	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	905594708	static (Custom)	Wwise Guitar Distortion			
+	908108771	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	918496066	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	919064215	static (Custom)	Wwise Guitar Distortion			
+	932754134	radio (Custom)	Wwise Parametric EQ			
+	973811457	static (Custom)	Wwise Guitar Distortion			
+	981741820	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	985478514	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1020211711	static (Custom)	Wwise Guitar Distortion			
+	1055112953	static (Custom)	Wwise Guitar Distortion			
+	1058381690	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	71158546	Ptilopsis_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_028		226278
+	137823296	Ptilopsis_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_018		274864
+	182952106	Ptilopsis_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_017		303824
+	190199677	Ptilopsis_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_020		245682
+	194843442	Ptilopsis_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_024		183026
+	296424133	Ptilopsis_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_021		191096
+	310858978	Ptilopsis_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_031		357198
+	352477761	Ptilopsis_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_019		506628
+	415561789	Ptilopsis_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_026		196506
+	456792115	Ptilopsis_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_010		370086
+	457682333	Ptilopsis_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_033		308636
+	499239483	Ptilopsis_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_022		194546
+	508084839	Ptilopsis_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_023		218918
+	585675023	Ptilopsis_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_027		214470
+	585747658	Ptilopsis_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_030		334522
+	647984724	Ptilopsis_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_032		492866
+	664777201	Ptilopsis_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_029		849876
+	772516329	Ptilopsis_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_012		397576
+	806302104	Ptilopsis_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_034		101938
+	873108511	Ptilopsis_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_036		709434
+	1047912186	Ptilopsis_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Ptilopsis_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Ptilopsis\Ptilopsis_CN_025		208694
+

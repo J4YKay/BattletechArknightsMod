@@ -1,0 +1,29 @@
+{
+  "name": "Rosmontis_soundbank",
+  "filename": "Rosmontis.bnk",
+  "type": "Voice",
+  "events": {
+    "Play_Rosmontis_CN_010": 572202150,
+    "Play_Rosmontis_CN_012": 572202148,
+    "Play_Rosmontis_CN_017": 572202145,
+    "Play_Rosmontis_CN_018": 572202158,
+    "Play_Rosmontis_CN_019": 572202159,
+    "Play_Rosmontis_CN_020": 555424563,
+    "Play_Rosmontis_CN_021": 555424562,
+    "Play_Rosmontis_CN_022": 555424561,
+    "Play_Rosmontis_CN_023": 555424560,
+    "Play_Rosmontis_CN_024": 555424567,
+    "Play_Rosmontis_CN_025": 555424566,
+    "Play_Rosmontis_CN_026": 555424565,
+    "Play_Rosmontis_CN_027": 555424564,
+    "Play_Rosmontis_CN_028": 555424571,
+    "Play_Rosmontis_CN_029": 555424570,
+    "Play_Rosmontis_CN_030": 538646848,
+    "Play_Rosmontis_CN_031": 538646849,
+    "Play_Rosmontis_CN_032": 538646850,
+    "Play_Rosmontis_CN_033": 538646851,
+    "Play_Rosmontis_CN_034": 538646852,
+    "Play_Rosmontis_CN_036": 538646854,
+    "Rosmontis_Stop_All": 2736604812
+  }
+}

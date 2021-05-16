@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	538646848	Play_Rosmontis_CN_030			\Default Work Unit\Play_Rosmontis_CN_030	
+	538646849	Play_Rosmontis_CN_031			\Default Work Unit\Play_Rosmontis_CN_031	
+	538646850	Play_Rosmontis_CN_032			\Default Work Unit\Play_Rosmontis_CN_032	
+	538646851	Play_Rosmontis_CN_033			\Default Work Unit\Play_Rosmontis_CN_033	
+	538646852	Play_Rosmontis_CN_034			\Default Work Unit\Play_Rosmontis_CN_034	
+	538646854	Play_Rosmontis_CN_036			\Default Work Unit\Play_Rosmontis_CN_036	
+	555424560	Play_Rosmontis_CN_023			\Default Work Unit\Play_Rosmontis_CN_023	
+	555424561	Play_Rosmontis_CN_022			\Default Work Unit\Play_Rosmontis_CN_022	
+	555424562	Play_Rosmontis_CN_021			\Default Work Unit\Play_Rosmontis_CN_021	
+	555424563	Play_Rosmontis_CN_020			\Default Work Unit\Play_Rosmontis_CN_020	
+	555424564	Play_Rosmontis_CN_027			\Default Work Unit\Play_Rosmontis_CN_027	
+	555424565	Play_Rosmontis_CN_026			\Default Work Unit\Play_Rosmontis_CN_026	
+	555424566	Play_Rosmontis_CN_025			\Default Work Unit\Play_Rosmontis_CN_025	
+	555424567	Play_Rosmontis_CN_024			\Default Work Unit\Play_Rosmontis_CN_024	
+	555424570	Play_Rosmontis_CN_029			\Default Work Unit\Play_Rosmontis_CN_029	
+	555424571	Play_Rosmontis_CN_028			\Default Work Unit\Play_Rosmontis_CN_028	
+	572202145	Play_Rosmontis_CN_017			\Default Work Unit\Play_Rosmontis_CN_017	
+	572202148	Play_Rosmontis_CN_012			\Default Work Unit\Play_Rosmontis_CN_012	
+	572202150	Play_Rosmontis_CN_010			\Default Work Unit\Play_Rosmontis_CN_010	
+	572202158	Play_Rosmontis_CN_018			\Default Work Unit\Play_Rosmontis_CN_018	
+	572202159	Play_Rosmontis_CN_019			\Default Work Unit\Play_Rosmontis_CN_019	
+	2736604812	Rosmontis_Stop_All			\Default Work Unit\Rosmontis_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	82351620	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	108332926	radio (Custom)	Wwise Parametric EQ			
+	130784608	radio (Custom)	Wwise Parametric EQ			
+	145796246	radio (Custom)	Wwise Parametric EQ			
+	148049110	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	149186450	static (Custom)	Wwise Guitar Distortion			
+	161941071	static (Custom)	Wwise Guitar Distortion			
+	171363272	static (Custom)	Wwise Guitar Distortion			
+	180680657	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	202463836	radio (Custom)	Wwise Parametric EQ			
+	204459087	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	208508857	static (Custom)	Wwise Guitar Distortion			
+	235034556	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	244896658	static (Custom)	Wwise Guitar Distortion			
+	273673229	static (Custom)	Wwise Guitar Distortion			
+	378415078	radio (Custom)	Wwise Parametric EQ			
+	391652011	static (Custom)	Wwise Guitar Distortion			
+	395639293	radio (Custom)	Wwise Parametric EQ			
+	398758166	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	423852049	radio (Custom)	Wwise Parametric EQ			
+	425571895	static (Custom)	Wwise Guitar Distortion			
+	428127997	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	433975459	static (Custom)	Wwise Guitar Distortion			
+	437151029	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	438430853	static (Custom)	Wwise Guitar Distortion			
+	477637187	radio (Custom)	Wwise Parametric EQ			
+	483505600	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	496512205	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	508970453	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	523821361	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	544085726	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	552459246	radio (Custom)	Wwise Parametric EQ			
+	555097080	radio (Custom)	Wwise Parametric EQ			
+	556796223	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	565618574	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	632626277	static (Custom)	Wwise Guitar Distortion			
+	640217873	radio (Custom)	Wwise Parametric EQ			
+	640558873	radio (Custom)	Wwise Parametric EQ			
+	670095436	static (Custom)	Wwise Guitar Distortion			
+	677669578	radio (Custom)	Wwise Parametric EQ			
+	701080823	static (Custom)	Wwise Guitar Distortion			
+	704007731	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	707382292	static (Custom)	Wwise Guitar Distortion			
+	742835760	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	763222914	static (Custom)	Wwise Guitar Distortion			
+	763233135	radio (Custom)	Wwise Parametric EQ			
+	791020088	radio (Custom)	Wwise Parametric EQ			
+	806208548	static (Custom)	Wwise Guitar Distortion			
+	832513867	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	851177687	radio (Custom)	Wwise Parametric EQ			
+	858434985	static (Custom)	Wwise Guitar Distortion			
+	860174502	radio (Custom)	Wwise Parametric EQ			
+	878306274	static (Custom)	Wwise Guitar Distortion			
+	938917873	radio (Custom)	Wwise Parametric EQ			
+	953674774	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	956133468	static (Custom)	Wwise Guitar Distortion			
+	958234209	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	965309554	static (Custom)	Wwise Guitar Distortion			
+	992082859	radio (Custom)	Wwise Parametric EQ			
+	1017052191	static (Custom)	Wwise Guitar Distortion			
+	1028851060	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	1028957982	radio (Custom)	Wwise Parametric EQ			
+	1073210447	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1036257	Rosmontis_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_018		976264
+	29764921	Rosmontis_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_024		542222
+	72721463	Rosmontis_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_021		321412
+	177441733	Rosmontis_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_032		1776522
+	220821528	Rosmontis_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_031		384634
+	245740449	Rosmontis_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_027		376014
+	252865911	Rosmontis_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_025		401038
+	337233681	Rosmontis_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_020		657326
+	359366077	Rosmontis_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_033		898248
+	476219906	Rosmontis_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_034		355332
+	641276489	Rosmontis_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_030		479690
+	664176263	Rosmontis_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_023		76352
+	671302927	Rosmontis_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_036		573964
+	743576534	Rosmontis_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_028		533432
+	781976027	Rosmontis_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_026		286120
+	878369636	Rosmontis_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_029		1047466
+	942999812	Rosmontis_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_010		3025592
+	975137646	Rosmontis_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_022		341704
+	1026580515	Rosmontis_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_019		455460
+	1060891545	Rosmontis_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_012		618718
+	1068564950	Rosmontis_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Rosmontis_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Rosmontis\Rosmontis_CN_017		713828
+

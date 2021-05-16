@@ -1,0 +1,53 @@
+{
+   "Description": {
+      "Id": "pilot_arknights_gummy",
+      "Name": "Gummy",
+      "FirstName": "Natsumi",
+      "LastName": "Takamori",
+      "Callsign": "Gummy",
+      "Gender": "Female",
+      "factionID": "RhodesIsland",
+      "Age": 34,
+      "Details": "Gummy was once the teenage group runner-up in the Ursus Youth Scout competition. Before the Chernobog incident, she was a middle school student in the city. She is skilled in Ursus-style cooking.\nIn a number of tests, she has exhibited the strength and solid physique characteristic of most Ursus. Gummy has been approved for an internship in a squad of Defender Operators. She also provides logistical support and combat culinary services for Rhodes Island.",
+      "Icon": "portrait_arknights_gummy"
+   },
+   "BaseGunnery": 2,
+   "BonusGunnery": 0,
+   "BasePiloting": 2,
+   "BonusPiloting": 0,
+   "BaseGuts": 2,
+   "BonusGuts": 0,
+   "BaseTactics": 2,
+   "BonusTactics": 0,
+   "ExperienceUnspent": 10000,
+   "ExperienceSpent": 0,
+   "Injuries": 0,
+   "Health": 3,
+   "LethalInjury": false,
+   "Incapacitated": false,
+   "Morale": 0,
+   "Voice": "Gummy_voicepack",
+   "abilityDefNames": [],
+   "AIPersonality": "Undefined",
+   "PilotTags": {
+      "items": [
+         "BLACKLISTED",
+         "pilot_mechwarrior",
+         "pilot_military",
+         "pilot_brave",
+         "pilot_athletic",
+         "pilot_gladiator",
+         "pilot_reckless",
+         "pilot_lucky",
+         "pilot_dependable",
+         "pilot_honest",
+         "pilot_ursus",
+         "pilot_arknights",
+         "pilot_defender",
+         "name_Gummy"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "PilotCost": 0,
+   "IsRonin": true
+}

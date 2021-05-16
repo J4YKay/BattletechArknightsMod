@@ -1,0 +1,29 @@
+{
+  "name": "Kal_tsit_soundbank",
+  "filename": "Kal_tsit.bnk",
+  "type": "Voice",
+  "events": {
+    "Kaltsit_Stop_All": 1989012254,
+    "Play_Kal_tsit_CN_010": 475932581,
+    "Play_Kal_tsit_CN_012": 475932583,
+    "Play_Kal_tsit_CN_017": 475932578,
+    "Play_Kal_tsit_CN_018": 475932589,
+    "Play_Kal_tsit_CN_019": 475932588,
+    "Play_Kal_tsit_CN_020": 425599724,
+    "Play_Kal_tsit_CN_021": 425599725,
+    "Play_Kal_tsit_CN_022": 425599726,
+    "Play_Kal_tsit_CN_023": 425599727,
+    "Play_Kal_tsit_CN_024": 425599720,
+    "Play_Kal_tsit_CN_025": 425599721,
+    "Play_Kal_tsit_CN_026": 425599722,
+    "Play_Kal_tsit_CN_027": 425599723,
+    "Play_Kal_tsit_CN_028": 425599716,
+    "Play_Kal_tsit_CN_029": 425599717,
+    "Play_Kal_tsit_CN_030": 442377311,
+    "Play_Kal_tsit_CN_031": 442377310,
+    "Play_Kal_tsit_CN_032": 442377309,
+    "Play_Kal_tsit_CN_033": 442377308,
+    "Play_Kal_tsit_CN_034": 442377307,
+    "Play_Kal_tsit_CN_036": 442377305
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Rosa_soundbank",
+  "filename": "Rosa.bnk",
+  "type": "Voice",
+  "events": {
+    "Play_Rosa_CN_010": 3425774375,
+    "Play_Rosa_CN_012": 3425774373,
+    "Play_Rosa_CN_017": 3425774368,
+    "Play_Rosa_CN_018": 3425774383,
+    "Play_Rosa_CN_019": 3425774382,
+    "Play_Rosa_CN_020": 3442551962,
+    "Play_Rosa_CN_021": 3442551963,
+    "Play_Rosa_CN_022": 3442551960,
+    "Play_Rosa_CN_023": 3442551961,
+    "Play_Rosa_CN_024": 3442551966,
+    "Play_Rosa_CN_025": 3442551967,
+    "Play_Rosa_CN_026": 3442551964,
+    "Play_Rosa_CN_027": 3442551965,
+    "Play_Rosa_CN_028": 3442551954,
+    "Play_Rosa_CN_029": 3442551955,
+    "Play_Rosa_CN_030": 3459329549,
+    "Play_Rosa_CN_031": 3459329548,
+    "Play_Rosa_CN_032": 3459329551,
+    "Play_Rosa_CN_033": 3459329550,
+    "Play_Rosa_CN_034": 3459329545,
+    "Play_Rosa_CN_036": 3459329547,
+    "Rosa_Stop_All": 3816348647
+  }
+}

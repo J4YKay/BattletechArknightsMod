@@ -1,0 +1,29 @@
+{
+  "name": "Gummy_soundbank",
+  "filename": "Gummy.bnk",
+  "type": "Voice",
+  "events": {
+    "Gummy_Stop_All": 1575135319,
+    "Play_Gummy_CN_010": 707471525,
+    "Play_Gummy_CN_012": 707471527,
+    "Play_Gummy_CN_017": 707471522,
+    "Play_Gummy_CN_018": 707471533,
+    "Play_Gummy_CN_019": 707471532,
+    "Play_Gummy_CN_020": 657138668,
+    "Play_Gummy_CN_021": 657138669,
+    "Play_Gummy_CN_022": 657138670,
+    "Play_Gummy_CN_023": 657138671,
+    "Play_Gummy_CN_024": 657138664,
+    "Play_Gummy_CN_025": 657138665,
+    "Play_Gummy_CN_026": 657138666,
+    "Play_Gummy_CN_027": 657138667,
+    "Play_Gummy_CN_028": 657138660,
+    "Play_Gummy_CN_029": 657138661,
+    "Play_Gummy_CN_030": 673916255,
+    "Play_Gummy_CN_031": 673916254,
+    "Play_Gummy_CN_032": 673916253,
+    "Play_Gummy_CN_033": 673916252,
+    "Play_Gummy_CN_034": 673916251,
+    "Play_Gummy_CN_036": 673916249
+  }
+}

@@ -40,12 +40,21 @@ Starting lance will be:
 Currently implemented additional pilots for hire
 * Blemishine
 * Flamebringer
+* Gumi
 * Hoshiguma
 * Mostima
+* Phantom
+* Ptilopsis
+* Rosa
+* Rosmontis
 * Schwarz
+* Sesa
 * SilverAsh
+* Spot
 * Swire
 * W
+
+***Kal'tsit portrait and voices are added but pilot is not configured (Can set up as commander unit)*
 
 #
 ## ModTek Installation

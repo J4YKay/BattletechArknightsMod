@@ -1,0 +1,29 @@
+{
+  "name": "Phantom_soundbank",
+  "filename": "Phantom.bnk",
+  "type": "Voice",
+  "events": {
+    "Phantom_Stop_All": 4067093327,
+    "Play_Phantom_CN_010": 1731262177,
+    "Play_Phantom_CN_012": 1731262179,
+    "Play_Phantom_CN_017": 1731262182,
+    "Play_Phantom_CN_018": 1731262185,
+    "Play_Phantom_CN_019": 1731262184,
+    "Play_Phantom_CN_020": 1680929320,
+    "Play_Phantom_CN_021": 1680929321,
+    "Play_Phantom_CN_022": 1680929322,
+    "Play_Phantom_CN_023": 1680929323,
+    "Play_Phantom_CN_024": 1680929324,
+    "Play_Phantom_CN_025": 1680929325,
+    "Play_Phantom_CN_026": 1680929326,
+    "Play_Phantom_CN_027": 1680929327,
+    "Play_Phantom_CN_028": 1680929312,
+    "Play_Phantom_CN_029": 1680929313,
+    "Play_Phantom_CN_030": 1697706907,
+    "Play_Phantom_CN_031": 1697706906,
+    "Play_Phantom_CN_032": 1697706905,
+    "Play_Phantom_CN_033": 1697706904,
+    "Play_Phantom_CN_034": 1697706911,
+    "Play_Phantom_CN_036": 1697706909
+  }
+}

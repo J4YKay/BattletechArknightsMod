@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	425599716	Play_Kal_tsit_CN_028			\Default Work Unit\Play_Kal_tsit_CN_028	
+	425599717	Play_Kal_tsit_CN_029			\Default Work Unit\Play_Kal_tsit_CN_029	
+	425599720	Play_Kal_tsit_CN_024			\Default Work Unit\Play_Kal_tsit_CN_024	
+	425599721	Play_Kal_tsit_CN_025			\Default Work Unit\Play_Kal_tsit_CN_025	
+	425599722	Play_Kal_tsit_CN_026			\Default Work Unit\Play_Kal_tsit_CN_026	
+	425599723	Play_Kal_tsit_CN_027			\Default Work Unit\Play_Kal_tsit_CN_027	
+	425599724	Play_Kal_tsit_CN_020			\Default Work Unit\Play_Kal_tsit_CN_020	
+	425599725	Play_Kal_tsit_CN_021			\Default Work Unit\Play_Kal_tsit_CN_021	
+	425599726	Play_Kal_tsit_CN_022			\Default Work Unit\Play_Kal_tsit_CN_022	
+	425599727	Play_Kal_tsit_CN_023			\Default Work Unit\Play_Kal_tsit_CN_023	
+	442377305	Play_Kal_tsit_CN_036			\Default Work Unit\Play_Kal_tsit_CN_036	
+	442377307	Play_Kal_tsit_CN_034			\Default Work Unit\Play_Kal_tsit_CN_034	
+	442377308	Play_Kal_tsit_CN_033			\Default Work Unit\Play_Kal_tsit_CN_033	
+	442377309	Play_Kal_tsit_CN_032			\Default Work Unit\Play_Kal_tsit_CN_032	
+	442377310	Play_Kal_tsit_CN_031			\Default Work Unit\Play_Kal_tsit_CN_031	
+	442377311	Play_Kal_tsit_CN_030			\Default Work Unit\Play_Kal_tsit_CN_030	
+	475932578	Play_Kal_tsit_CN_017			\Default Work Unit\Play_Kal_tsit_CN_017	
+	475932581	Play_Kal_tsit_CN_010			\Default Work Unit\Play_Kal_tsit_CN_010	
+	475932583	Play_Kal_tsit_CN_012			\Default Work Unit\Play_Kal_tsit_CN_012	
+	475932588	Play_Kal_tsit_CN_019			\Default Work Unit\Play_Kal_tsit_CN_019	
+	475932589	Play_Kal_tsit_CN_018			\Default Work Unit\Play_Kal_tsit_CN_018	
+	1989012254	Kaltsit_Stop_All			\Default Work Unit\Kaltsit_Stop_All	
+
+Effect plug-ins	ID	Name	Type				Notes
+	19805086	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	31260504	static (Custom)	Wwise Guitar Distortion			
+	37800302	static (Custom)	Wwise Guitar Distortion			
+	39042128	radio (Custom)	Wwise Parametric EQ			
+	45421663	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	58774228	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	70344060	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	73542797	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	108312966	static (Custom)	Wwise Guitar Distortion			
+	117488271	static (Custom)	Wwise Guitar Distortion			
+	127021070	radio (Custom)	Wwise Parametric EQ			
+	144999160	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	212822560	radio (Custom)	Wwise Parametric EQ			
+	223861435	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	246611116	radio (Custom)	Wwise Parametric EQ			
+	268133025	radio (Custom)	Wwise Parametric EQ			
+	277021689	radio (Custom)	Wwise Parametric EQ			
+	286843289	static (Custom)	Wwise Guitar Distortion			
+	308404008	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	317816252	radio (Custom)	Wwise Parametric EQ			
+	362650346	static (Custom)	Wwise Guitar Distortion			
+	374500452	static (Custom)	Wwise Guitar Distortion			
+	392602176	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	394693331	static (Custom)	Wwise Guitar Distortion			
+	431508518	radio (Custom)	Wwise Parametric EQ			
+	435378047	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	436447721	static (Custom)	Wwise Guitar Distortion			
+	449126083	radio (Custom)	Wwise Parametric EQ			
+	459668958	radio (Custom)	Wwise Parametric EQ			
+	476175577	radio (Custom)	Wwise Parametric EQ			
+	509083624	radio (Custom)	Wwise Parametric EQ			
+	537026697	radio (Custom)	Wwise Parametric EQ			
+	589276243	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	591771070	radio (Custom)	Wwise Parametric EQ			
+	611010008	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	611091886	radio (Custom)	Wwise Parametric EQ			
+	675355605	static (Custom)	Wwise Guitar Distortion			
+	677251680	radio (Custom)	Wwise Parametric EQ			
+	685353812	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	694698871	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	712438999	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	716694476	radio (Custom)	Wwise Parametric EQ			
+	742460858	static (Custom)	Wwise Guitar Distortion			
+	768013630	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	801010142	static (Custom)	Wwise Guitar Distortion			
+	801826833	static (Custom)	Wwise Guitar Distortion			
+	807511461	static (Custom)	Wwise Guitar Distortion			
+	815122911	static (Custom)	Wwise Guitar Distortion			
+	843238904	static (Custom)	Wwise Guitar Distortion			
+	855508485	static (Custom)	Wwise Guitar Distortion			
+	869602034	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	904251688	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	908520918	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	921717856	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	939354930	radio (Custom)	Wwise Parametric EQ			
+	940583784	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	944840019	static (Custom)	Wwise Guitar Distortion			
+	984245434	static (Custom)	Wwise Guitar Distortion			
+	988977742	radio (Custom)	Wwise Parametric EQ			
+	991986439	radio (Custom)	Wwise Parametric EQ			
+	1001137299	static (Custom)	Wwise Guitar Distortion			
+	1025463485	static (Custom)	Wwise Guitar Distortion			
+	1052579050	radio (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8333897	Kal'tsit_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_025		69164
+	57133877	Kal'tsit_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_030		370576
+	104687448	Kal'tsit_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_028		62190
+	153779178	Kal'tsit_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_023		164984
+	167194539	Kal'tsit_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_033		279070
+	297561992	Kal'tsit_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_020		426028
+	346095097	Kal'tsit_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_022		180434
+	348333948	Kal'tsit_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_017		199326
+	370687053	Kal'tsit_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_024		216606
+	377234617	Kal'tsit_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_031		609376
+	421060986	Kal'tsit_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_036		524676
+	470688126	Kal'tsit_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_012		74618
+	666014851	Kal'tsit_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_027		71744
+	676470202	Kal'tsit_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_026		103982
+	677176154	Kal'tsit_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_018		272576
+	842768090	Kal'tsit_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_032		265298
+	859166606	Kal'tsit_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_021		75086
+	944521051	Kal'tsit_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_019		52960
+	972314073	Kal'tsit_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_010		370934
+	992559429	Kal'tsit_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_034		99146
+	1045834756	Kal'tsit_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Kal'tsit_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Kal'tsit\Kal'tsit_CN_029		511194
+

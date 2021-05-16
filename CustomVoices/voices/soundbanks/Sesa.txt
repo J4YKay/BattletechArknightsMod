@@ -1,0 +1,112 @@
+Event	ID	Name			Wwise Object Path	Notes
+	222215504	Sesa_Stop_All			\Default Work Unit\Sesa_Stop_All	
+	4046291424	Play_Sesa_CN_010			\Default Work Unit\Play_Sesa_CN_010	
+	4046291426	Play_Sesa_CN_012			\Default Work Unit\Play_Sesa_CN_012	
+	4046291431	Play_Sesa_CN_017			\Default Work Unit\Play_Sesa_CN_017	
+	4046291432	Play_Sesa_CN_018			\Default Work Unit\Play_Sesa_CN_018	
+	4046291433	Play_Sesa_CN_019			\Default Work Unit\Play_Sesa_CN_019	
+	4079846592	Play_Sesa_CN_036			\Default Work Unit\Play_Sesa_CN_036	
+	4079846594	Play_Sesa_CN_034			\Default Work Unit\Play_Sesa_CN_034	
+	4079846596	Play_Sesa_CN_032			\Default Work Unit\Play_Sesa_CN_032	
+	4079846597	Play_Sesa_CN_033			\Default Work Unit\Play_Sesa_CN_033	
+	4079846598	Play_Sesa_CN_030			\Default Work Unit\Play_Sesa_CN_030	
+	4079846599	Play_Sesa_CN_031			\Default Work Unit\Play_Sesa_CN_031	
+	4096624304	Play_Sesa_CN_029			\Default Work Unit\Play_Sesa_CN_029	
+	4096624305	Play_Sesa_CN_028			\Default Work Unit\Play_Sesa_CN_028	
+	4096624312	Play_Sesa_CN_021			\Default Work Unit\Play_Sesa_CN_021	
+	4096624313	Play_Sesa_CN_020			\Default Work Unit\Play_Sesa_CN_020	
+	4096624314	Play_Sesa_CN_023			\Default Work Unit\Play_Sesa_CN_023	
+	4096624315	Play_Sesa_CN_022			\Default Work Unit\Play_Sesa_CN_022	
+	4096624316	Play_Sesa_CN_025			\Default Work Unit\Play_Sesa_CN_025	
+	4096624317	Play_Sesa_CN_024			\Default Work Unit\Play_Sesa_CN_024	
+	4096624318	Play_Sesa_CN_027			\Default Work Unit\Play_Sesa_CN_027	
+	4096624319	Play_Sesa_CN_026			\Default Work Unit\Play_Sesa_CN_026	
+
+Effect plug-ins	ID	Name	Type				Notes
+	10519079	static (Custom)	Wwise Guitar Distortion			
+	19224713	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	23508897	radio (Custom)	Wwise Parametric EQ			
+	40617287	static (Custom)	Wwise Guitar Distortion			
+	51613433	static (Custom)	Wwise Guitar Distortion			
+	66322615	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	135758341	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	205579627	radio (Custom)	Wwise Parametric EQ			
+	228956472	radio (Custom)	Wwise Parametric EQ			
+	231999179	static (Custom)	Wwise Guitar Distortion			
+	232705612	radio (Custom)	Wwise Parametric EQ			
+	243649919	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	249700857	static (Custom)	Wwise Guitar Distortion			
+	277660534	static (Custom)	Wwise Guitar Distortion			
+	287682253	radio (Custom)	Wwise Parametric EQ			
+	301624456	radio (Custom)	Wwise Parametric EQ			
+	331291562	radio (Custom)	Wwise Parametric EQ			
+	334156971	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	354509745	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	359088484	radio (Custom)	Wwise Parametric EQ			
+	359418218	radio (Custom)	Wwise Parametric EQ			
+	360248066	radio (Custom)	Wwise Parametric EQ			
+	369982654	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	386318526	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	394932590	static (Custom)	Wwise Guitar Distortion			
+	428175485	static (Custom)	Wwise Guitar Distortion			
+	445693044	static (Custom)	Wwise Guitar Distortion			
+	463662899	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	468356526	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	476736103	static (Custom)	Wwise Guitar Distortion			
+	513095596	radio (Custom)	Wwise Parametric EQ			
+	527731003	radio (Custom)	Wwise Parametric EQ			
+	530152050	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	570350529	static (Custom)	Wwise Guitar Distortion			
+	572398225	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	608785901	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	610218629	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	637968308	radio (Custom)	Wwise Parametric EQ			
+	654841823	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	671110618	radio (Custom)	Wwise Parametric EQ			
+	676053630	radio (Custom)	Wwise Parametric EQ			
+	701938249	radio (Custom)	Wwise Parametric EQ			
+	703935664	static (Custom)	Wwise Guitar Distortion			
+	730117873	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	739369841	radio (Custom)	Wwise Parametric EQ			
+	764654870	static (Custom)	Wwise Guitar Distortion			
+	765856048	radio (Custom)	Wwise Parametric EQ			
+	771124428	static (Custom)	Wwise Guitar Distortion			
+	792511354	static (Custom)	Wwise Guitar Distortion			
+	832932326	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	852212278	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	891281209	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	930434597	radio (Custom)	Wwise Parametric EQ			
+	931802777	static (Custom)	Wwise Guitar Distortion			
+	937125480	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	957369201	Dialog_Leveler_Hard (Custom)	Wwise Compressor			
+	979613100	static (Custom)	Wwise Guitar Distortion			
+	985097703	static (Custom)	Wwise Guitar Distortion			
+	997102628	radio (Custom)	Wwise Parametric EQ			
+	998078148	static (Custom)	Wwise Guitar Distortion			
+	1022935345	radio (Custom)	Wwise Parametric EQ			
+	1030945063	static (Custom)	Wwise Guitar Distortion			
+	1049531386	static (Custom)	Wwise Guitar Distortion			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	178030156	Sesa_CN_034	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_034_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_034		428770
+	215386365	Sesa_CN_027	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_027_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_027		522014
+	326209877	Sesa_CN_017	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_017_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_017		550726
+	370289773	Sesa_CN_023	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_023_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_023		87806
+	448221913	Sesa_CN_032	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_032_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_032		570018
+	557497643	Sesa_CN_030	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_030_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_030		705270
+	558912449	Sesa_CN_018	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_018_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_018		594058
+	567198701	Sesa_CN_025	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_025_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_025		249852
+	581755487	Sesa_CN_021	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_021_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_021		258496
+	612891859	Sesa_CN_026	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_026_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_026		198676
+	618934360	Sesa_CN_020	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_020_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_020		492730
+	628719997	Sesa_CN_010	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_010_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_010		270022
+	786493426	Sesa_CN_028	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_028_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_028		307508
+	848025963	Sesa_CN_029	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_029_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_029		912654
+	855839199	Sesa_CN_033	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_033_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_033		645188
+	880787994	Sesa_CN_019	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_019_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_019		558782
+	882378219	Sesa_CN_012	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_012_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_012		413940
+	882445454	Sesa_CN_031	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_031_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_031		499020
+	952839324	Sesa_CN_036	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_036_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_036		509596
+	973859924	Sesa_CN_024	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_024_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_024		282140
+	983019173	Sesa_CN_022	C:\Users\james\Documents\WwiseProjects\Ark\.cache\Windows\SFX\Sesa_CN_022_9E69E797.wem		\Actor-Mixer Hierarchy\Sesa\Sesa_CN_022		338902
+

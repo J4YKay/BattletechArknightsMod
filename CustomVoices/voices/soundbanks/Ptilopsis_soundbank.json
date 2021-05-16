@@ -1,0 +1,29 @@
+{
+  "name": "Ptilopsis_soundbank",
+  "filename": "Ptilopsis.bnk",
+  "type": "Voice",
+  "events": {
+    "Play_Ptilopsis_CN_010": 3653736067,
+    "Play_Ptilopsis_CN_012": 3653736065,
+    "Play_Ptilopsis_CN_017": 3653736068,
+    "Play_Ptilopsis_CN_018": 3653736075,
+    "Play_Ptilopsis_CN_019": 3653736074,
+    "Play_Ptilopsis_CN_020": 3670513782,
+    "Play_Ptilopsis_CN_021": 3670513783,
+    "Play_Ptilopsis_CN_022": 3670513780,
+    "Play_Ptilopsis_CN_023": 3670513781,
+    "Play_Ptilopsis_CN_024": 3670513778,
+    "Play_Ptilopsis_CN_025": 3670513779,
+    "Play_Ptilopsis_CN_026": 3670513776,
+    "Play_Ptilopsis_CN_027": 3670513777,
+    "Play_Ptilopsis_CN_028": 3670513790,
+    "Play_Ptilopsis_CN_029": 3670513791,
+    "Play_Ptilopsis_CN_030": 3687291369,
+    "Play_Ptilopsis_CN_031": 3687291368,
+    "Play_Ptilopsis_CN_032": 3687291371,
+    "Play_Ptilopsis_CN_033": 3687291370,
+    "Play_Ptilopsis_CN_034": 3687291373,
+    "Play_Ptilopsis_CN_036": 3687291375,
+    "Ptilopsis_Stop_All": 3122303649
+  }
+}
